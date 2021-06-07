@@ -1,11 +1,13 @@
 ## 欢迎来到王崎的个人主页
 ## Welcome to Qi Wang's Homepages
 
-You can use the [editor on GitHub](https://github.com/qiwang-GZU/qiwang-gzu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+王崎，博士，贵州大学特聘教授，硕士生导师。博士在读期间曾在京东人工智能研究院担任算法工程师，成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020.12月获得内国工学博士学位，2021.02获得国外工程技术博士学位。截至当前，累计发表9篇SCI论文，其中以第一作者发表行业内TOP期刊3篇，曾多次获得了国际国内的知名科研竞赛奖项，发表了8项发明专利，参与了国家及省级课题5项。此外，还担任一些国际顶级会议和期刊的审稿人，如ACMMM (CCF A 会议), TNNLS (Top 期刊), Neurocomputing 等等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 教育经历
+2018.07 ~ 2021.02: 博士，Engineering Technology, Hasselt University, 导师：[Luc Claesen]()
+2015.09 ~ 2020.12: 硕博连读，计算机应用工程，广东工业大学，导师：刘文印、雷亮
+2011.09 ~ 2015.06: 本科，电子信息工程，西北民族大学
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
