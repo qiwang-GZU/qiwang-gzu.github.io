@@ -5,7 +5,7 @@
 
 
 ### 教育经历
-2018.07 ~ 2021.02: 博士，Engineering Technology, Hasselt University, 导师：[Luc Claesen]()
+2018.07 ~ 2021.02: 博士，Engineering Technology, Hasselt University, 导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
 2015.09 ~ 2020.12: 硕博连读，计算机应用工程，广东工业大学，导师：刘文印、雷亮
 2011.09 ~ 2015.06: 本科，电子信息工程，西北民族大学
 
