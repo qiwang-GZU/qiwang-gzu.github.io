@@ -1,6 +1,6 @@
 ## 欢迎来到王崎的个人主页
 
-王崎，博士，贵州大学特聘教授，硕士生导师，研究方向：计算机视觉、大数据分析和理解、机器学习。博士在读期间曾在京东人工智能研究院担任算法工程师，成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020.12月获得内国工学博士学位，2021.02获得国外工程技术博士学位。截至当前，累计发表9篇SCI论文，其中以第一作者发表行业内TOP期刊3篇，曾多次获得了国际国内的知名科研竞赛奖项，发表了8项发明专利，参与了国家及省级课题5项。此外，还担任一些国际顶级会议和期刊的审稿人，如ACMMM (CCF A 会议), TNNLS (Top 期刊), Neurocomputing 等等。
+王崎（1993.04-），博士，贵州大学特聘教授，硕士生导师，研究方向：计算机视觉、大数据分析和理解、机器学习。博士在读期间曾在京东人工智能研究院担任算法工程师，而后成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020年12月获得国内工学博士学位，2021年2月获得国外工程技术博士学位，是广东工业大学第一位获得双博士学位的毕业生。截至当前，累计发表9篇SCI论文，其中以第一作者发表行业内TOP期刊3篇，曾多次获得了国际国内的知名科研竞赛奖项，发表了8项发明专利，参与了国家及省级课题5项。此外，还担任一些国际顶级会议和期刊的审稿人，如ACMMM (CCF A 会议), TNNLS (Top 期刊), Neurocomputing 等等。
 
 邮箱：qiwang@gzu.edu.cn 
 
@@ -29,7 +29,6 @@
 7.	Zhenguo Yang, Qing Li, Haoran Xie, Wang Qi, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2020. (SCI 1/JCR 1, Top)
 8.	Xu Kai, Wang Qi, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2019. (EI)
 9.	K. Xu, Z. Yang, P. Kang, Q. Wang, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (SCI 3)
-
 
 
 ### 招生意向
