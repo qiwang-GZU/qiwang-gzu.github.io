@@ -1,4 +1,4 @@
-![Image text](ME.jpeg)
+![Image text](ME.jpg)
 
 ## 欢迎来到王崎的个人主页
 
