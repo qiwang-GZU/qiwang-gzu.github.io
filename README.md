@@ -1,4 +1,4 @@
-![Image text](https://github.com/qiwang-GZU/qiwang-gzu.github.io/blob/main/QQ%E6%88%AA%E5%9B%BE20210607230531.png)
+![Image text](personal.png)
 
 ## 欢迎来到王崎的个人主页
 
