@@ -1,4 +1,4 @@
-![Image text](personal.png)
+![Image text](ME.jpeg)
 
 ## 欢迎来到王崎的个人主页
 
