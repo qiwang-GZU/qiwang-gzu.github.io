@@ -4,7 +4,7 @@
 
 邮箱：qiwang@gzu.edu.cn 
 
-Chance favors the prepared mind！
+人生格言：Chance favors the prepared mind！
 
 
 ### 科研经历
@@ -17,7 +17,9 @@ Chance favors the prepared mind！
 
 2015.09 ~ 2020.12:  国内硕博阶段，广东工业大学，导师：[刘文印](http://www.wislab.cn/liuwy/cv.htm)、[雷亮](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
+
 ### 论文
+
 1.	Qi Wang, Jinxiang Lai, Luc Claesen, et al., A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020. Doi: 10.1016/j.neunet.2020.06.010. (IF: 5.535, SCI 1/JCR 1, Top) 
 2.	Qi Wang, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning.  IEEE Transactions on Image Processing, Doi:10.1109/TIP.2020.3004249. (IF: 9.34, SCI 1/JCR 1, Top) 
 3.	Qi Wang, Jinxiang Lai, Zhenguo Yang, et al. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. 2019.8.  Neurocomputing, doi:10.1016/j. neucom.2019.08.25. (IF: 4.438, SCI 2/JCR 1, Top)
@@ -32,6 +34,6 @@ Chance favors the prepared mind！
 
 ### 招生意向
 
-招生意向：对人工智能、大数据方向感兴趣、且能吃苦耐劳的研究生。优秀者可推荐至腾讯优图、京东AI研究院等知名单位实习。对有读博意向的同学，非常优秀者可推荐至香港理工大学、比利时鲁汶大学等全球排名前100的知名高校读博，并辅助其申请留学生奖学金。
+对人工智能、大数据方向感兴趣、且能吃苦耐劳的研究生。优秀者可推荐至腾讯优图、京东AI研究院等知名单位实习。对有读博意向的同学，非常优秀者可推荐至香港理工大学、比利时鲁汶大学等全球排名前100的知名高校读博，并辅助其申请留学生奖学金。
 
 
