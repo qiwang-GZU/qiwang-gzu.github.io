@@ -6,7 +6,10 @@
 
 邮箱：qiwang@gzu.edu.cn 
 
+个人主页：[qiwang.me](https://qiwang.me/)
+
 人生格言：Chance favors the prepared mind！
+
 
 
 ### 科研经历
