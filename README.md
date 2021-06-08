@@ -8,6 +8,8 @@
 
 个人主页：[qiwang.me](https://qiwang.me/)
 
+Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
+
 人生格言：Chance favors the prepared mind！
 
 
