@@ -1,4 +1,4 @@
-<img src="1620830780924.jpg" width = "350" height = "450" />
+<img src="me.jpg" width = "220" height = "320">
 
 ## 欢迎来到王崎的个人主页
 
