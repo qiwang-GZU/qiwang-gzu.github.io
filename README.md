@@ -1,4 +1,4 @@
-![Image text](ME.jpg)
+<img src="ME.jpg" width = "100" height = "200" alt="" align=center />
 
 ## 欢迎来到王崎的个人主页
 
