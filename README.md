@@ -27,14 +27,16 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	**Qi Wang**, Jinxiang Lai, Luc Claesen, et al., A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020. Doi: 10.1016/j.neunet.2020.06.010. (IF: 5.535, SCI 1/JCR 1, Top) 
-2.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning.  IEEE Transactions on Image Processing, Doi:10.1109/TIP.2020.3004249. (IF: 9.34, SCI 1/JCR 1, Top) 
-3.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, et al. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. 2019.8.  Neurocomputing, doi:10.1016/j. neucom.2019.08.25. (IF: 4.438, SCI 2/JCR 1, Top)
-4.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. ACMMM Conference, 2018.10, doi:10.1145/3240508.3266431. (CCF A)
-5.	**Wang Qi**, Lei Liang, Lai Jingxing, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik - International Journal for Light and Electron Optics, 2017, 145, doi:10.1016/j.ijleo.2017.07.005. (IF: 2.187, SCI 2/JCR 1) 
-6.	Zhenguo Yang, Qing Li, Haoran Xie, **Wang Qi**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2020. (SCI 1/JCR 1, Top)
+1.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 5.535, SCI 1/JCR 1, Top) 
+2.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 9.34, SCI 1/JCR 1, Top) 
+3.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 4.438, SCI 2/JCR 1, Top)
+4.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067. (CCF A)
+5.	**Wang Qi**, Lei Liang, Lai Jingxing, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. (IF: 2.187, SCI 3/JCR 1) 
+6.	Zhenguo Yang, Qing Li, Haoran Xie, **Wang Qi**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (SCI 1/JCR 1, Top)
 7.	Xu Kai, **Wang Qi**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2019. (EI)
 8.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (SCI 3)
+
+
 
 ### 发明专利
 1.	一种基于加权深度特征的图像特征提取方法；2019.01.27，CN201910045648.
