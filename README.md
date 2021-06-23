@@ -32,8 +32,8 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 3.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 4.438, SCI 2/JCR 1, Top)
 4.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067. (CCF A)
 5.	**Wang Qi**, Lei Liang, Lai Jingxing, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. (IF: 2.187, SCI 3/JCR 1) 
-6.	Zhenguo Yang, Qing Li, Haoran Xie, **Wang Qi**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (SCI 1/JCR 1, Top)
-7.	Xu Kai, **Wang Qi**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (EI)
+6.	Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (SCI 1/JCR 1, Top)
+7.	Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (EI)
 8.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (SCI 3)
 
 
