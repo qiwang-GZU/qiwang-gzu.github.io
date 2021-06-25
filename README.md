@@ -18,7 +18,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 2021.03 ~   至今 :   贵州大学，公共大数据国家重点实验室，特聘教授
 
-2019.05 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
+2018.07 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
 
 2019.01 ~ 2019.04:  京东人工智能研究院，导师：[梅涛](http://taomei.me/), [刘武](http://liuwu.weebly.com/)
 
