@@ -17,7 +17,7 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
-## Experience
+## Research Experience
 
 2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
 
@@ -27,7 +27,7 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 
 ## Research Interests
-Computer vision; Acceleration deep learning in image field; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning
+Computer vision; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning; Fine-grained analysis
 
 ## Publications
 1. Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
