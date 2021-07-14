@@ -4,7 +4,9 @@ Qi Wang
 ## Education
 
 2018.07 ~ 2020.02：Ph.D., Engineering Technology, Hasselt University (UHasselt)
+
 2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology (GDUT)
+
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
 ## Experience
