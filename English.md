@@ -11,19 +11,19 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 				
 ## Education
 
-2018.07 ~ 2020.02：Ph.D., Engineering Technology, Hasselt University (UHasselt)
+2018.07 ~ 2020.02：Ph.D., Engineering Technology, Hasselt University
 
-2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology (GDUT)
+2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology
 
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
 ## Experience
 
-2018.07 ~ 2021.02: Hasselt University, [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
+2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
 
-2019.01 ~ 2019.04: JD AI Lab，[tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)
+2019.01 ~ 2019.04: JD AI Lab, supervisor: [tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)
 
-2015.09 ~ 2020.12: Guangdong University of Technology，[Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)，[Liang Lei](https://yzw.gdut.edu.cn/info/1124/4546.htm)
+2015.09 ~ 2020.12: Guangdong University of Technology, supervisor: [Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)，[Liang Lei](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
 ## Publications
 1. Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
@@ -37,6 +37,34 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 9. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
 
 ## Research Interests
+Computer vision; Acceleration deep learning in image field; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning
+
+## Patents
+[1]	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
+[2]	A target monitoring method, system, equipment and storage media; 2018.05.28, CN201810522083.
+[3]	A method, device and system for detecting the internal components of an object; 2017.09.07, CN2017108007464.
+[4]	A laser marking system and a laser marking method for on-line visual guidance; 2017.08.24, CN2017107367392.
+[5]	A flight marking system and control method based on general microscope and visual speed measurement; 2017.08.24, CN2017107361042.
+[6]	Automatic measurement system and measurement method based on feature point matching; 2016.06.08, CN2016104071109.
+[7]	3D reconstruction system and its method for multiscale biaxial rotating laser images; 2015.12.22, CN201510980774X.
 
 
 ## Honors & Awards
+
+1.	JD AI STAR INTERN. Time: 03/2019
+2.	National college students photoelectric design competition: 
+	Second place at school level and Third prize at national level. Time:5/2016
+3.	The National information technology application level competition:                                                                                               Second prize at national level. Time:12/2013
+4.	China robot competition and Robo-Cup open challenge:
+	Second prize at national level. Time:10/2013                                                                                
+5.	The National electronic design competition:
+	Second prize at Provincial level. Time:09/2013
+6.	Freescale smart car race:
+	Enter the northwest division preliminary contest. Time: 06/2013
+7.	Gansu university student’s innovation cup application ability competition:
+	Second prize at Provincial level. Time: 10/2012
+8.	National electronic professionals design and skills competition:
+	Third prize at Provincial level. Time: 06/2012
+9.	National software professionals design and entrepreneurship competition:
+	Honorable mention at national level. Time:03/2012   
+
