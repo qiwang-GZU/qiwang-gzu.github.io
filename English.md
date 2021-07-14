@@ -1,28 +1,21 @@
 ## Personal infomation ([中文主页](README.md))
-Qi Wang (Ph.D, Associate Professor)
-
+Qi Wang (Ph.D, Associate Professor)  
 State Key Laboratory of Public Big Data, Guizhou University
 
-Mobile: +86-15603055556
-
-Email: qiwang@gzu.edu.cn 
-
+Mobile: +86-15603055556  
+Email: qiwang@gzu.edu.cn   
 Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi District, Guiyang City, Guizhou Provance, China (550025)
 				
 ## Education
 
-2018.07 ~ 2020.02：Ph.D., Engineering Technology, Hasselt University
-
-2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology
-
+2018.07 ~ 2020.02：Ph.D., Engineering Technology, Hasselt University  
+2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology  
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
 ## Research Experience
 
-2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
-
-2019.01 ~ 2019.04: JD AI Lab, supervisor: [Tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)
-
+2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
+2019.01 ~ 2019.04: JD AI Lab, supervisor: [Tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)  
 2015.09 ~ 2020.12: Guangdong University of Technology, supervisor: [Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)，[Liang Lei](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
 
