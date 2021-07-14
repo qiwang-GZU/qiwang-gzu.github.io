@@ -1,5 +1,11 @@
 ## Personal infomation ([中文主页](README.md))
 Qi Wang (Ph.D, Associate Professor)
+State Key Laboratory of Public Big Data
+Guizhou University
+
+Mobile: +86-15603055556
+Email: qi.wang@email.cn
+Address: Guiyang City, Guizhou Provance, China (550025)
 				
 ## Education
 
