@@ -21,9 +21,13 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
 
-2019.01 ~ 2019.04: JD AI Lab, supervisor: [tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)
+2019.01 ~ 2019.04: JD AI Lab, supervisor: [Tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)
 
 2015.09 ~ 2020.12: Guangdong University of Technology, supervisor: [Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)，[Liang Lei](https://yzw.gdut.edu.cn/info/1124/4546.htm)
+
+
+## Research Interests
+Computer vision; Acceleration deep learning in image field; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning
 
 ## Publications
 1. Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
@@ -35,9 +39,6 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 7. Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. 
 8. Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). 
 9. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
-
-## Research Interests
-Computer vision; Acceleration deep learning in image field; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning
 
 ## Patents
 1.	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
