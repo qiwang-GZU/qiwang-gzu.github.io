@@ -16,20 +16,15 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 科研经历
 
-2021.03 ~   至今 :   贵州大学，公共大数据国家重点实验室，特聘教授
-
-2018.07 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
-
-2019.01 ~ 2019.04:  京东人工智能研究院，导师：[梅涛](http://taomei.me/), [刘武](http://liuwu.weebly.com/)
-
+2021.03 ~   至今 :   贵州大学，公共大数据国家重点实验室，特聘教授  
+2018.07 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
+2019.01 ~ 2019.04:  京东人工智能研究院，导师：[梅涛](http://taomei.me/), [刘武](http://liuwu.weebly.com/)  
 2015.09 ~ 2020.12:  国内硕博阶段，广东工业大学，导师：[刘文印](http://www.wislab.cn/liuwy/cv.htm)，[雷亮](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
 ### 教育经历
 
-2018.07 ~ 2020.02：博士，Engineering Technology，Hasselt University
-
-2015.09 ~ 2020.12：博士，计算机应用工程，广东工业大学
-
+2018.07 ~ 2020.02：博士，Engineering Technology，Hasselt University  
+2015.09 ~ 2020.12：博士，计算机应用工程，广东工业大学  
 2011.09 ~ 2015.06：本科，电子信息工程，西北民族大学
 
 
