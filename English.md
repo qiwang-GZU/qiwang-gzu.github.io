@@ -1,4 +1,4 @@
-## Infomation ([中文主页](README.md))
+## Welcome to my homepage!([中文主页](README.md))
  Qi Wang (Ph.D, Associate Professor)  
  Employed on State Key Laboratory of Public Big Data, Guizhou University, China  
 
