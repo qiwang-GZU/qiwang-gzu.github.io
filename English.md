@@ -19,6 +19,11 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 ## Experience
 
+2018.07 ~ 2021.02: Hasselt University, [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)
+
+2019.01 ~ 2019.04: JD AI Lab，[tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)
+
+2015.09 ~ 2020.12: Guangdong University of Technology，[Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)，[Liang Lei](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
 ## Publications
 1. Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
