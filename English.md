@@ -5,7 +5,7 @@ State Key Laboratory of Public Big Data, Guizhou University
 
 Mobile: +86-15603055556
 
-Email: qi.wang@email.cn
+Email: qiwang@gzu.edu.cn 
 
 Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi District, Guiyang City, Guizhou Provance, China (550025)
 				
