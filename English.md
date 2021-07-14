@@ -40,13 +40,13 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 Computer vision; Acceleration deep learning in image field; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning
 
 ## Patents
-[1]	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
-[2]	A target monitoring method, system, equipment and storage media; 2018.05.28, CN201810522083.
-[3]	A method, device and system for detecting the internal components of an object; 2017.09.07, CN2017108007464.
-[4]	A laser marking system and a laser marking method for on-line visual guidance; 2017.08.24, CN2017107367392.
-[5]	A flight marking system and control method based on general microscope and visual speed measurement; 2017.08.24, CN2017107361042.
-[6]	Automatic measurement system and measurement method based on feature point matching; 2016.06.08, CN2016104071109.
-[7]	3D reconstruction system and its method for multiscale biaxial rotating laser images; 2015.12.22, CN201510980774X.
+1.	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
+2.	A target monitoring method, system, equipment and storage media; 2018.05.28, CN201810522083.
+3.	A method, device and system for detecting the internal components of an object; 2017.09.07, CN2017108007464.
+4.	A laser marking system and a laser marking method for on-line visual guidance; 2017.08.24, CN2017107367392.
+5.	A flight marking system and control method based on general microscope and visual speed measurement; 2017.08.24, CN2017107361042.
+6.	Automatic measurement system and measurement method based on feature point matching; 2016.06.08, CN2016104071109.
+7.	3D reconstruction system and its method for multiscale biaxial rotating laser images; 2015.12.22, CN201510980774X.
 
 
 ## Honors & Awards
