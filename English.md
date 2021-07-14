@@ -1,5 +1,5 @@
 ## Personal infomation ([中文主页](README.md))
-Qi Wang
+Qi Wang (Ph.D, Associate Professor)
 				
 ## Education
 
