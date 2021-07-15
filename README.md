@@ -1,12 +1,12 @@
 <img src="me.jpg" width = "220" height = "320">
 
 ## Welcome to my homepage!([**中文主页**](Chinese.md))
- Qi Wang (Ph.D, Associate Professor)  
- Employed at State Key Laboratory of Public Big Data, Guizhou University, China  
+ Qi Wang (Ph.D, Special-Term Professor)  
+ is working with State Key Laboratory of Public Big Data, Guizhou University, China  
 
 Mobile: +86-15603055556  
 Email: qiwang@gzu.edu.cn   
-Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi District, Guiyang City, Guizhou Provance, China (550025)
+Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi Distriict, Guiyang City, Guizhou Province, China (550025)
 				
 ## Education
 
@@ -25,7 +25,7 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 Computer vision; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning; Fine-grained analysis
 
 ## Publications
-1. Huitong Yang, **Qi Wang**, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
+1. Huitong Yang, **Qi Wang**, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. Submitted to IEEE Transactions on Cybernetics. (Under Review)
 2. **Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. 
 3. **Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. 
 4. **Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26.
