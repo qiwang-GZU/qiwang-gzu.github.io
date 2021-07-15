@@ -9,8 +9,8 @@
 手机/微信：15603055556  
 个人主页：[qiwang.me](https://qiwang.me/)  
 Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)  
-人生格言：Chance favors the prepared mind！ 
-招生意向：招收对人工智能、大数据方向、计算机视觉感兴趣的研究生。优秀者可推荐至腾讯优图、京东AI研究院等知名单位实习。对有读博意向的同学，非常优秀者可推荐至香港理工大学、比利时鲁汶大学等全球排名前100的知名高校读博，并辅助其申请留学生奖学金。此外，欢迎本科生来本课题组开展科研任务和本科毕业设计，感兴趣者请邮件联系。
+人生格言：Chance favors the prepared mind！   
+**招生意向**：招收对人工智能、大数据方向、计算机视觉感兴趣的研究生。优秀者可推荐至腾讯优图、京东AI研究院等知名单位实习。对有读博意向的同学，非常优秀者可推荐至香港理工大学、比利时鲁汶大学等全球排名前100的知名高校读博，并辅助其申请留学生奖学金。此外，欢迎本科生来本课题组开展科研任务和本科毕业设计，感兴趣者请邮件联系。
 
 
 ### 科研经历
@@ -29,7 +29,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
+1.	Huitong Yang, **Qi Wang**, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. IEEE Transactions on Cybernetics. (Under Review)
 2.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 5.535, SCI 1/JCR 1, Top) 
 3.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 9.34, SCI 1/JCR 1, Top) 
 4.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 4.438, SCI 2/JCR 1, Top)
