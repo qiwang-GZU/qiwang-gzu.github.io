@@ -6,6 +6,7 @@
 
 通讯地址：贵州省贵阳市花溪区贵州大学西校区崇厚楼825室（550025）  
 邮箱：qiwang@gzu.edu.cn  
+手机/微信：15603055556  
 个人主页：[qiwang.me](https://qiwang.me/)  
 Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)  
 人生格言：Chance favors the prepared mind！
