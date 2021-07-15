@@ -1,6 +1,6 @@
 <img src="me.jpg" width = "220" height = "320">
 
-## Welcome to my homepage!([中文主页请点击](Chinese.md))
+## Welcome to my homepage!([中文主页](Chinese.md))
  Qi Wang (Ph.D, Associate Professor)  
  Employed at State Key Laboratory of Public Big Data, Guizhou University, China  
 
