@@ -2,7 +2,7 @@
 
 ## Welcome to my homepage!([**中文主页**](Chinese.md))
  Qi Wang (Ph.D, Special-Term Professor)  
- is working with State Key Laboratory of Public Big Data, Guizhou University, China  
+ is working with State Key Laboratory of Public Big Data, [Guizhou University](http://www.gzu.edu.cn/en/), China  
 
 Mobile: +86-15603055556  
 Email: qiwang@gzu.edu.cn   
