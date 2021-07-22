@@ -22,7 +22,7 @@ Address: Room 825, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 
 ## Research Interests
-Computer vision; Image segmentation, classification, detection and retrieval; Machine Learning; Image analysis and understanding; Few-shot learning; Fine-grained analysis
+Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image analysis and understanding; Few-shot learning; Fine-grained analysis
 
 ## Publications
 1. Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. Submitted to IEEE Transactions on Cybernetics. (Under Review)
