@@ -45,7 +45,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 参与的国家级及省级课题项目
 1.	王崎，2021.06-2024.05，少样本细粒度商品识别研究(40万)，贵州大学特岗项目(X2021227)，在研
-2.	Qi Wang, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures, Belgium International Bilateral Scientific Cooperation Project-BOF 2020 (15,900€), 主持并完成.
+2.	Qi Wang, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), Belgium International Bilateral Scientific Cooperation Project-BOF 2020 (BOF20BL01), 主持并完成.
 3.	孔祥飞，2020.01-2022.12，基于改进的慢特征分析模型的目标变化监测方法研究(27万)，国家自然科学基金(青年基金项目，No. 6190070082)，参与
 4.	刘文印，2018.01-2021.12，共融机器人视觉编程及在线人机协作机制研究(63万)，国家自然科学基金（重大研究计划，No. 91748107），参与
 5.	刘文印，2016.02-2021.01，城市轨道交通网络控制芯片与系统创新团队– 列车健康诊断与运维服务系统研发及产业化(10,000万)，广东省引进创新团队计划，No.2014ZT05G157，参与
