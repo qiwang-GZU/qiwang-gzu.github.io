@@ -43,7 +43,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 9.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (SCI 3)
 
 
-### 参与的国家级及省级课题项目
+### 主持或参与的国家级及省级课题项目
 1.	王崎，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究(36万)，No. 62162008, 主持，在研
 2.	王崎，贵州大学特岗项目，2021.06-2024.05，少样本细粒度商品识别研究(40万), No. X2021227，主持，在研
 3.	Qi Wang,  Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01, 主持并完成.
