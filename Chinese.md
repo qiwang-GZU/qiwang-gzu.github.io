@@ -66,5 +66,5 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 8.	多尺度双轴旋转激光影像三维重构系统及其方法; 2015.12.22, CN201510980774X.
 
 ### 在读研究生
-<img src="董新宇.png" width = "110" height = "160">
-    董新宇
+<img src="董新宇.png" width = "160" height = "210">
+       董新宇
