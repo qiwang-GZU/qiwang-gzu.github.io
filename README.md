@@ -64,5 +64,6 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 9.	National software professionals design and entrepreneurship competition:
 	Honorable mention at national level. Time:03/2012   
 
-
-
+## Students
+<img src="董新宇.png" width = "132" height = "192">
+Xinyu Dong (Image text analysis; Image representation)
