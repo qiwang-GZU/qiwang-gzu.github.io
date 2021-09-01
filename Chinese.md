@@ -67,4 +67,5 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 在读研究生
 <img src="董新宇.png" width = "132" height = "192">  
+
 董新宇(研究方向：图像文本分析、图像表征)
