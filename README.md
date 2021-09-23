@@ -65,5 +65,10 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 	Honorable mention at national level. Time:03/2012   
 
 ## Students
-<img src="董新宇.png" width = "132" height = "192">
+
+<img src="yanghuitong.png" width = "132" height = "192">
+Huitong Yang (Image text analysis; Image representation)
+<img src="dongxinyu.png" width = "132" height = "192">
 Xinyu Dong (Image text analysis; Image representation)
+<img src="wangjianjun.png" width = "132" height = "192">
+Jianjun Wang(Image text analysis; Image representation)
