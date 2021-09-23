@@ -67,18 +67,18 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 ## Students
 
 <img src="miaoyanming.png" width = "132" height = "192">  
-Yanming Miao (Spatial-Temporal analysis; Graph Neural Networks)
+Yanming Miao (Ph.D., Spatial-Temporal analysis; Graph Neural Networks)
 
 <img src="yanghuitong.png" width = "132" height = "192">  
-Huitong Yang (Image text analysis; Image representation)
+Huitong Yang (Ph.D., Image text analysis; Image representation)
 
 
 <img src="dongxinyu.png" width = "132" height = "192">  
-Xinyu Dong (Computer vision; Image representation)
+Xinyu Dong (Graduated student, Computer vision; Image representation)
 
 
 <img src="wangjianjun.png" width = "132" height = "192">  
-Jianjun Wang(Image fine-grind analysis; Image representation)
+Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
 
 <img src="denghongyu.png" width = "132" height = "192">  
-Hongyu Deng(Cross-model analysis)
+Hongyu Deng(Graduated student, Cross-model analysis)
