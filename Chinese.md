@@ -44,7 +44,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 
 ### 主持或参与的国家级及省级课题项目
-1.	王崎，贵州大学培育类项目，2021.09-2024.9，基于植物病害图像的大数据理论研究（8万），No.20210042，主持，在研
+1.	王崎，贵州大学培育类项目，2021.09-2024.9，基于植物病害图像的大数据理论研究（5.5万），No.20210042，主持，在研
 2.	王崎，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究(36万)，No. 62162008, 主持，在研
 3.	王崎，贵州大学特岗项目，2021.06-2024.05，少样本细粒度商品识别研究(40万), No. X2021227，主持，在研
 4.	Qi Wang,  Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01, 主持并完成.
