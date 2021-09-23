@@ -66,6 +66,9 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 
 ## Students
 
+<img src="miaoyanming.png" width = "132" height = "192">  
+Yanming Miao (Image text analysis; Image representation)
+
 <img src="yanghuitong.png" width = "132" height = "192">  
 Huitong Yang (Image text analysis; Image representation)
 
