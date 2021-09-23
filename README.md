@@ -76,3 +76,6 @@ Xinyu Dong (Image text analysis; Image representation)
 
 <img src="wangjianjun.png" width = "132" height = "192">  
 Jianjun Wang(Image text analysis; Image representation)
+
+<img src="denghongyu.png" width = "132" height = "192">  
+Hongyu Deng(Image text analysis; Image representation)
