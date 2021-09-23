@@ -83,3 +83,6 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 王建军(硕士研究生)
 
+<img src="denghongyu.png" width = "132" height = "192">
+
+邓宏宇(硕士研究生)
