@@ -71,22 +71,22 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 <img src="miaoyanming.png" width = "132" height = "192">
 
-苗言铭(博士研究生，研究方向：时空预测、图卷积)
+苗言铭(博士研究生，研究方向:时空预测、图卷积)
 
 <img src="yanghuitong.png" width = "132" height = "192">
 
-杨蕙同(博士研究生，研究方向：图像检索、少样本学习)
+杨蕙同(博士研究生，研究方向:图像检索、少样本学习)
 
 
 <img src="dongxinyu.png" width = "132" height = "192">  
 
-董新宇(硕士研究生，研究方向：图像文本分析、图像表征)
+董新宇(硕士研究生，研究方向:图像文本分析、图像表征)
 
 
 <img src="wangjianjun.png" width = "132" height = "192">
 
-王建军(硕士研究生)
+王建军(硕士研究生,研究方向:计算机视觉、图像细粒度分析)
 
 <img src="denghongyu.png" width = "132" height = "192">
 
-邓宏宇(硕士研究生)
+邓宏宇(硕士研究生,研究方向:计算机视觉、图像文本分析)
