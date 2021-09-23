@@ -74,7 +74,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 杨蕙同(博士研究生，研究方向：图像检索、少样本学习)
 
 
-<img src="董新宇.png" width = "132" height = "192">  
+<img src="dongxinyu.png" width = "132" height = "192">  
 
 董新宇(硕士研究生，研究方向：图像文本分析、图像表征)
 
