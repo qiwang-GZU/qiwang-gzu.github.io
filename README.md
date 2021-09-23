@@ -68,7 +68,11 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 
 <img src="yanghuitong.png" width = "132" height = "192">
 Huitong Yang (Image text analysis; Image representation)
+
+
 <img src="dongxinyu.png" width = "132" height = "192">
 Xinyu Dong (Image text analysis; Image representation)
+
+
 <img src="wangjianjun.png" width = "132" height = "192">
 Jianjun Wang(Image text analysis; Image representation)
