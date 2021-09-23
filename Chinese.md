@@ -69,6 +69,10 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 ### 在读研究生
 
 
+<img src="miaoyanming.png" width = "132" height = "192">
+
+苗言铭(博士研究生，研究方向：时空预测、图卷积)
+
 <img src="yanghuitong.png" width = "132" height = "192">
 
 杨蕙同(博士研究生，研究方向：图像检索、少样本学习)
