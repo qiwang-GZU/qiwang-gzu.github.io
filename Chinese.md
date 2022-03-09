@@ -10,7 +10,7 @@
 个人主页：[qiwang.me](https://qiwang.me/)  
 谷歌学术：[qiwang.scholar.google](https://scholar.google.com/citations?user=jUcEacsAAAAJ&hl=zh-CN)  
 Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)  
-通讯地址：贵州省贵阳市花溪区贵州大学西校区崇厚楼825室(550025)  
+通讯地址：贵州省贵阳市花溪区贵州大学西校区崇厚楼718室(550025)  
 人生格言：Chance favors the prepared mind！   
 
 
