@@ -33,24 +33,26 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction, Submitted to Neural Networks. (Under Review, IF: 8.05, SCI 1, Top)
-2.	Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. Submitted to IEEE Transactions on Cybernetics. (Under Review, IF: 11.68, SCI 1, Top)
-3.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 8.05, SCI 1, Top) 
-4.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 10.856, SCI 1, Top) 
-5.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 5.719, SCI 2, Top)
-6.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067. (CCF A)
-7.	**Qi Wang**, Liang Lei, Jingxing Lai, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. (IF: 2.443, SCI 3) 
-8.	Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (IF: 7.74, SCI 1, Top)
-9.	Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (EI)
-10.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (SCI 3)
+1.	Haolin Chen, **Qi Wang***, Jingxiang Zhu, Weijian Ruan, Wu Liu, Gefei Hao, Liang Lei. ALFPN: Adaptive Learnable Feature Pyramid Network for Small Object Detection, Submitted to ACMMM.(Under Review, CCF A, Top)
+2.	Jingxiang Zhu, **Qi Wang***, Haolin Chen, Zhenguo Yang, Weijian Ruan, Yuling Chen, Liang Lei. FSNA: Few-Shot Object Detection via Neighborhood Information Adaptor and All-Attention, Submitted to ACMMM.(Under Review, CCF A, Top)
+3.	Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction, Submitted to Neural Networks. (Under Review, IF: 8.05, SCI 1, Top)
+4.	Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. Submitted to IEEE Transactions on Cybernetics. (Under Review, IF: 11.68, SCI 1, Top)
+5.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 8.05, SCI 1, Top) 
+6.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 10.856, SCI 1, Top) 
+7.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 5.719, SCI 2, Top)
+8.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067. (CCF A)
+9.	**Qi Wang**, Liang Lei, Jingxing Lai, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. (IF: 2.443, SCI 3) 
+10.	Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (IF: 7.74, SCI 1, Top)
+11.	Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (EI)
+12.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (SCI 3)
 
 
 ### 主持或参与的国家级及省级课题项目
-1.	王崎，贵州省科技厅自然科学基金，2022.04-2025.04，基于茶树树叶图像病害的细粒度识别研究（10万），黔科合基础-ZK[2022]一般108，主持，在研  
-2.	王崎，贵州大学培育类项目，2021.09-2024.9，基于植物病害图像的大数据理论研究（5.5万），No.20210042，主持，在研
-3.	王崎，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究(36万)，No. 62162008, 主持，在研
-4.	王崎，贵州大学特岗项目，2021.06-2024.05，少样本细粒度商品识别研究(40万), No. X2021227，主持，在研
-5.	Qi Wang,  Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01, 主持并完成.
+1.	**王崎**，贵州省科技厅自然科学基金，2022.04-2025.04，基于茶树树叶图像病害的细粒度识别研究（10万），黔科合基础-ZK[2022]一般108，主持，在研  
+2.	**王崎**，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究(36万)，No. 62162008, 主持，在研  
+3.	**王崎**，贵州大学培育类项目，2021.09-2024.9，基于植物病害图像的大数据理论研究（5.5万），No.20210042，主持，在研  
+4.	**王崎**，贵州大学特岗项目，2021.06-2024.05，少样本细粒度商品识别研究(40万), No. X2021227，主持，在研
+5.	**Qi Wang**,  Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01, 主持并完成.
 6.	孔祥飞，国家自然科学基金，2020.01-2022.12，基于改进的慢特征分析模型的目标变化监测方法研究(27万)，No. 6190070082，参与
 7.	刘文印，国家自然科学基金，2018.01-2021.12，共融机器人视觉编程及在线人机协作机制研究(63万)，No. 91748107，参与
 8.	刘文印，广东省引进创新团队计划，2016.02-2021.01，城市轨道交通网络控制芯片与系统创新团队– 列车健康诊断与运维服务系统研发及产业化(10,000万)，No. 2014ZT05G157，参与
