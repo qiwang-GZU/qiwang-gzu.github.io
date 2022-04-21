@@ -26,7 +26,7 @@ Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi D
 Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image analysis and understanding; Few-shot learning; Fine-grained analysis
 
 ## Publications
-1. Xinyu D, **Qi W***, Wu L, et al. A survey of image representation. Sci Sin Inform. (Under Review)
+1. Xinyu Dong, **Qi Wang***, Wu Liu, et al. A Survey of Content-Based Image Feature Representation Methods. Sci Sin Inform. (Under Review)
 2. Haolin Chen, **Qi Wang***, Jingxiang Zhu, Weijian Ruan, Wu Liu, Gefei Hao, Liang Lei. ALFPN: Adaptive Learnable Feature Pyramid Network for Small Object Detection, Submitted to ACMMM. (Under Review)    
 3. Jingxiang Zhu, **Qi Wang***, Haolin Chen, Zhenguo Yang, Weijian Ruan, Yuling Chen, Liang Lei. FSNA: Few-Shot Object Detection via Neighborhood Information Adaptor and All-Attention, Submitted to ACMMM. (Under Review)   
 4. Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction, Submitted to Neural Networks. (Under Review) 
