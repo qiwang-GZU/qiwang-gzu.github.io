@@ -41,11 +41,11 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 13. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
 
 ## Porjects  
-1. Wang Qi, Natural Science Foundation of Guizhou Provincial Department of Science and Technology, 2022.04-2025.04, Research on fine-grained identification of tea tree leaf image diseases (100,000 RMB), Qiankehe Foundation-ZK [2022] General 108, PI, Ongoing.    
-2. Wang Qi, National Natural Science Foundation of China, 2022.01-2025.12, Theory and Research on Discrete Representation of Image Big Data (360,000 RMB), No. 62162008, PI, Ongoing   
-3. Wang Qi, Guizhou University Cultivation Project, 2021.09-2024.9, Theoretical Research on Big Data Based on Plant Disease Images (55,000 RMB), No.20210042, PI, Ongoing.  
-4. Wang Qi, Special Gang Project of Guizhou University, 2021.06-2024.05, Research on Fine-grained Commodity Recognition with Small Samples (400,000 RMB), No. X2021227, Principal, PI and ongoing    
-5. Qi Wang, Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01, PI and completed.  
+1. PI, Wang Qi, Natural Science Foundation of Guizhou Provincial Department of Science and Technology, 2022.04-2025.04, Research on fine-grained identification of tea tree leaf image diseases (100,000 RMB), Qiankehe Foundation-ZK [2022] General 108. Ongoing    
+2. PI, Wang Qi, National Natural Science Foundation of China, 2022.01-2025.12, Theory and Research on Discrete Representation of Image Big Data (360,000 RMB), No. 62162008. Ongoing   
+3. PI, Wang Qi, Guizhou University Cultivation Project, 2021.09-2024.9, Theoretical Research on Big Data Based on Plant Disease Images (55,000 RMB), No.20210042. Ongoing   
+4. PI, Wang Qi, Special Gang Project of Guizhou University, 2021.06-2024.05, Research on Fine-grained Commodity Recognition with Small Samples (400,000 RMB), No. X2021227, Principal. Ongoing   
+5. PI, Qi Wang, Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01. completed.  
 
 ## Patents
 1.	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
