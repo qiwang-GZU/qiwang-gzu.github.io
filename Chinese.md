@@ -33,7 +33,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	董新宇, **王崎***, 阮威健, 刘武, 雷亮, 陈玉玲, 郝格非. 图像表征方法综述. 中国科学：信息科学. (在审文章, 国内信息学领域顶刊)
+1.	董新宇, **王崎***, 阮威健, 刘武, 雷亮, 田有亮, 郝格非. 图像表征方法综述. 中国科学：信息科学. (在审文章, 国内信息学领域顶刊)
 2.	Haolin Chen, **Qi Wang***, Jingxiang Zhu, Weijian Ruan, Wu Liu, Gefei Hao, Liang Lei. ALFPN: Adaptive Learnable Feature Pyramid Network for Small Object Detection, Submitted to ACMMM. (Under Review, CCF A, Top)  
 3.	Jingxiang Zhu, **Qi Wang***, Haolin Chen, Zhenguo Yang, Weijian Ruan, Yuling Chen, Liang Lei. FSNA: Few-Shot Object Detection via Neighborhood Information Adaptor and All-Attention, Submitted to ACMMM. (Under Review, CCF A, Top)  
 4.	Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction, Submitted to Neural Networks. (Under Review, IF: 8.05, SCI 1, Top)  
