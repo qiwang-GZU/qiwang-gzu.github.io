@@ -81,9 +81,6 @@ Computer vision; Knowledge Discovery and Data Mining; Machine Learning; Image an
 <img src="miaoyanming.png" width = "132" height = "192">  
 Yanming Miao (Ph.D. student, Spatial-Temporal analysis; Graph Neural Networks)
 
-<img src="yanghuitong.png" width = "132" height = "192">  
-Huitong Yang (Ph.D. student, Image text analysis; Image representation)
-
 
 <img src="dongxinyu.png" width = "132" height = "192">  
 Xinyu Dong (Graduated student, Computer vision; Image representation)
