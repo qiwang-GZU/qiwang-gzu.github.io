@@ -23,7 +23,7 @@ Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 
 ## Research Interests
-Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot learning; Fine-grained analysis; Image captioning; Adversarial attack; Obiect detection; Image segmentation; Multi-view stereo; depth estimation
+Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot learning; Fine-grained analysis; Image captioning; Adversarial attack; Obiect detection; Image segmentation; Multi-view stereo; Depth estimation
 
 ## Publications
 1. Xinyu Dong, **Qi Wang***, Wu Liu, et al. A Survey of Content-Based Image Feature Representation Methods. Sci Sin Inform. (Under Review)
