@@ -33,11 +33,11 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	董新宇, **王崎***, 阮威健, 刘武, 雷亮, 田有亮, 郝格非. 图像表征方法综述. 中国科学：信息科学. (在审文章, 国内信息学领域顶刊)
-2.	Haolin Chen, **Qi Wang***, Jingxiang Zhu, Weijian Ruan, Wu Liu, Gefei Hao, Liang Lei. ALFPN: Adaptive Learnable Feature Pyramid Network for Small Object Detection, Submitted to ACMMM. (Under Review, CCF A, Top)  
-3.	Jingxiang Zhu, **Qi Wang***, Haolin Chen, Zhenguo Yang, Weijian Ruan, Yuling Chen, Liang Lei. FSNA: Few-Shot Object Detection via Neighborhood Information Adaptor and All-Attention, Submitted to ACMMM. (Under Review, CCF A, Top)  
-4.	Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction, Submitted to Neural Networks. (Under Review, IF: 8.05, SCI 1, Top)  
-5.	Huitong Yang, Zhenguo Yang, **Qi Wang***, Yongbin Qin, Xianghong Tang, Liang lei, Qing Li. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. Submitted to IEEE Transactions on Neural Networks and Learning Systems. (Under Review, IF: 10.451, SCI 1, CCF B, Top)  
+1.	董新宇, **王崎***, 阮威健, 刘武, 雷亮, 田有亮, 郝格非. 图像表征方法综述. (在审)
+2.	Haolin Chen, **Qi Wang***, Jingxiang Zhu, Weijian Ruan, Wu Liu, Gefei Hao, Liang Lei. ALFPN: Adaptive Learnable Feature Pyramid Network for Small Object Detection. (Under Review)  
+3.	Jingxiang Zhu, **Qi Wang***, Haolin Chen, Zhenguo Yang, Weijian Ruan, Yuling Chen, Liang Lei. FSNA: Few-Shot Object Detection via Neighborhood Information Adaptor and All-Attention. (Under Review)  
+4.	Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. (Under Review)  
+5.	Huitong Yang, Zhenguo Yang, **Qi Wang***, Yongbin Qin, Xianghong Tang, Liang lei, Qing Li. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. (Under Review)  
 6.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 8.05, SCI 1, CCF B, Top)  
 7.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 10.856, SCI 1, CCF A, Top) 
 8.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 5.719, SCI 2, CCF B, Top)
