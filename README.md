@@ -26,19 +26,16 @@ Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi D
 Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot learning; Fine-grained analysis; Image captioning; Adversarial attack; Obiect detection; Image segmentation; Multi-view stereo; Depth estimation
 
 ## Publications
-1. Xinyu Dong, **Qi Wang***, Wu Liu, et al. A Survey of Content-Based Image Feature Representation Methods. Sci Sin Inform. (Under Review)
-2. Haolin Chen, **Qi Wang***, Jingxiang Zhu, Weijian Ruan, Wu Liu, Gefei Hao, Liang Lei. ALFPN: Adaptive Learnable Feature Pyramid Network for Small Object Detection, Submitted to ACMMM. (Under Review)    
-3. Jingxiang Zhu, **Qi Wang***, Haolin Chen, Zhenguo Yang, Weijian Ruan, Yuling Chen, Liang Lei. FSNA: Few-Shot Object Detection via Neighborhood Information Adaptor and All-Attention, Submitted to ACMMM. (Under Review)   
-4. Yanming Miao, **Qi Wang***, Liya Yu, Xianghong Tang. GDENet: Graph Differential Equations Network for Traffic Flow Prediction, Submitted to Neural Networks. (Under Review) 
-5. Huitong Yang, **Qi Wang***, Xianghong Tang, Liang lei. GAMNet: Global Attention Via Multi-scale Context for Binocular Depth Estimation Algorithm and Application. Submitted to IEEE Transactions on Neural Networks and Learning Systems. (Under Review) 
-6. **Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (Under Review) 
-7. **Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. 
-8. **Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26.
-9. **Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067. 
-10. **Qi Wang**, Liang Lei, Jingxing Lai, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. 
-11. Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. 
-12. Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). 
-13. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
+1. Zhou, Huizhou, Haoliang Zhao, **Qi Wang***, Liang Lei, Gefei Hao, Yusheng Xu, and Zhen Ye. 2022. EMO-MVS: Error-Aware Multi-Scale Iterative Variable Optimizer for Efficient Multi-View Stereo. Remote Sensing, 2022, 14(23):6085. 
+2. **Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. 
+3. **Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564.
+4. **Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26
+5. **Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067.
+6. **Qi Wang**, Liang Lei, Jingxing Lai, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. 
+7. Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640.  
+8. Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). 
+9. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
+
 
 ## Porjects  
 1. PI, Wang Qi, Natural Science Foundation of Guizhou Provincial Department of Science and Technology, 2022.04-2025.04, Research on fine-grained identification of tea tree leaf image diseases (100,000 RMB), Qiankehe Foundation-ZK [2022] General 108. Ongoing    
