@@ -88,6 +88,9 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 周辉舟 (硕士研究生, 研究方向:三维重构，立体视觉)   
 &emsp;&emsp;硕士期间以第一作者发表4篇学术论文CVPR（CCF A Top），Remote Sensing（SCI 2区 Top），Netural Network（SCI 1区 Top），ACCV(CCF C)，获得华为DIGIX2021人工智能大赛星光卓越奖，2023年6月毕业，虽本科毕业于大连交通大学（二本，英语四级），但目前已获得中山大学博士入学offer。  
 
+杨蕙同 (硕士研究生, 研究方向:三维重构，立体视觉)  
+&emsp;&emsp;硕士期间以第一作者发表一篇学术论文MST(SCI 2区)，ICRA2023(CCF b)，获得华为研究生数学建模大赛国家二等奖，本科毕业于辽宁工业大学，目前已拿到多个海外名校的全奖博士入学offer。   
+
 邓宏宇 (硕士研究生, 研究方向:计算机视觉、图像文本分析)   
 &emsp;&emsp;进入团队1年半，当前以第一作者发表2篇学术论文Netural Network（SCI 1区 Top），The Plant Journal（SCI 1区 Top），获得各种学科类竞赛奖励若干。  
 
