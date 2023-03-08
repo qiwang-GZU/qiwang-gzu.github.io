@@ -85,8 +85,8 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 吴兴财(博士研究生, 研究方向:多模态任务学习、植物病害图像文本分析)
 
 
-周辉舟(硕士研究生, 研究方向:三维重构，立体视觉，已经拿到中山大学博士入学offer)
-
+周辉舟(硕士研究生, 研究方向:三维重构，立体视觉)
+    硕士期间以第一作者发表4篇学术论文CVPR（CCF A Top），Remote Sensing（SCI 2区 Top），Netural Network（SCI 1区 Top），ACCV(CCF C)，获得华为DIGIX2021人工智能大赛星光卓越奖，今年毕业，虽本科毕业于大连交通大学（二本，英语四级），但目前已获得中山大学博士入学offer。
 
 董新宇(硕士研究生, 研究方向:图像文本分析、图像表征)
 
