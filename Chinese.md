@@ -33,7 +33,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	**Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
+1.	**Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks. (IF: 9.657, SCI 1, CCF B, Top)
 2.	Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
 3.	Wu Xue, Deng Hongyu, **Wang Qi***, Gao YangYang, Lei Liang, Hao Ge-Fei. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 01. (**通讯作者**, IF: 7.091, SCI 1, Top)
 4.	Huang, Yang, Yuling Chen, Xuewei Wang, Jing Yang, and **Qi Wang***. Promoting Adversarial Transferability via Dual-Sampling Variance Aggregation and Feature Heterogeneity Attacks. Electronics. 2023; 12(3):767. (**通讯作者**, IF: 2.690, SCI 3)
