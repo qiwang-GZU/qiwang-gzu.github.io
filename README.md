@@ -78,16 +78,4 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 9.	National software professionals design and entrepreneurship competition:
 	Honorable mention at national level. Time:03/2012   
 
-## Students
 
-
-Yanming Miao (Ph.D. student, Spatial-Temporal analysis; Graph Neural Networks)
-
-
-Xinyu Dong (Graduated student, Computer vision; Image representation)
-
-
-Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
-
-
-Hongyu Deng(Graduated student, Cross-model analysis)
