@@ -33,18 +33,20 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 ### 论文
 
-1.	Wu Xue, Deng Hongyu, **Wang Qi***, Gao YangYang, Lei Liang, Hao Ge-Fei. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 01. (**通讯作者**, IF: 7.091, SCI 1, Top)
-2.	Huang, Yang, Yuling Chen, Xuewei Wang, Jing Yang, and **Qi Wang***. Promoting Adversarial Transferability via Dual-Sampling Variance Aggregation and Feature Heterogeneity Attacks. Electronics. 2023; 12(3):767. (**通讯作者**, IF: 2.690, SCI 3)
-3.	Zhou, Huizhou, Haoliang Zhao,**Qi Wang***, Liang Lei, Gefei Hao, Yusheng Xu, and Zhen Ye. 2022. EMO-MVS: Error-Aware Multi-Scale Iterative Variable Optimizer for Efficient Multi-View Stereo. Remote Sensing, 2022, 14(23):6085. (**通讯作者**, IF: 5.349, SCI 2, Top)
-4.	YANG Jing, LI Bin, LI Shaobo, **Qi Wang**, YU Liya, HU Jianjun, YUAN Kun. Brain-inspired Continuous Learning: Technology, Application and Future. Journal of Electronics & Information Technology, 2022, 44(5): 1865-1878. (合作作者，EI)
-5.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 8.05, SCI 1, CCF B, Top)  
-6.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 10.856, SCI 1, CCF A, Top)   
-7.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 5.719, SCI 2, CCF B, Top) 
-8.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In ACMMM, 2018, pp. 2063-2067. (CCF A, Top)
-9.	Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (合作作者，IF: 7.74, SCI 1, Top) 
-10.	**Qi Wang**, Liang Lei, Jingxing Lai, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. (IF: 2.4, SCI 3)
-11.	Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (合作作者，EI)
-12.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (合作作者，SCI 2)  
+1.	**Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
+2.	Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
+3.	Wu Xue, Deng Hongyu, **Wang Qi***, Gao YangYang, Lei Liang, Hao Ge-Fei. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 01. (**通讯作者**, IF: 7.091, SCI 1, Top)
+4.	Huang, Yang, Yuling Chen, Xuewei Wang, Jing Yang, and **Qi Wang***. Promoting Adversarial Transferability via Dual-Sampling Variance Aggregation and Feature Heterogeneity Attacks. Electronics. 2023; 12(3):767. (**通讯作者**, IF: 2.690, SCI 3)
+5.	Zhou, Huizhou, Haoliang Zhao,**Qi Wang***, Liang Lei, Gefei Hao, Yusheng Xu, and Zhen Ye. 2022. EMO-MVS: Error-Aware Multi-Scale Iterative Variable Optimizer for Efficient Multi-View Stereo. Remote Sensing, 2022, 14(23):6085. (**通讯作者**, IF: 5.349, SCI 2, Top)
+6.	YANG Jing, LI Bin, LI Shaobo, **Qi Wang**, YU Liya, HU Jianjun, YUAN Kun. Brain-inspired Continuous Learning: Technology, Application and Future. Journal of Electronics & Information Technology, 2022, 44(5): 1865-1878. (合作作者，EI)
+7.	**Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10. (IF: 9.657, SCI 1, CCF B, Top)  
+8.	**Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564. (IF: 11.041, SCI 1, CCF A, Top)   
+9.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (IF: 5.719, SCI 2, CCF B, Top) 
+10.	**Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In ACMMM, 2018, pp. 2063-2067. (CCF A, Top)
+11.	Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (合作作者，IF: 7.74, SCI 1, Top) 
+12.	**Qi Wang**, Liang Lei, Jingxing Lai, et al. Theory Research of Glare Reduction Based on the Fresnel Principle. Optik, 2017, 145: 106-112. (IF: 2.4, SCI 3)
+13.	Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (合作作者，EI)
+14.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (合作作者，SCI 2)  
 
 
 ### 主持或参与的国家级及省级课题项目
