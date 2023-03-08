@@ -80,16 +80,14 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 
 ## Students
 
-<img src="miaoyanming.png" width = "132" height = "192">  
+
 Yanming Miao (Ph.D. student, Spatial-Temporal analysis; Graph Neural Networks)
 
 
-<img src="dongxinyu.png" width = "132" height = "192">  
 Xinyu Dong (Graduated student, Computer vision; Image representation)
 
 
-<img src="wangjianjun.png" width = "132" height = "192">  
 Jianjun Wang(Graduated student, Image fine-grind analysis; Image representation)
 
-<img src="denghongyu.png" width = "132" height = "192">  
+
 Hongyu Deng(Graduated student, Cross-model analysis)
