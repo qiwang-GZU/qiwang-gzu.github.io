@@ -35,7 +35,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 1.	**Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks. (IF: 9.657, SCI 1, CCF B, Top)
 2.	Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
-3.	Chen, Yuling, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461. (**通讯作者**, IF: 2.738, SCI 3)
+3.	Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461. (**通讯作者**, IF: 2.738, SCI 3)
 4.	Wu Xue, Deng Hongyu, **Wang Qi***, Gao YangYang, Lei Liang, Hao Ge-Fei. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 01. (**通讯作者**, IF: 7.091, SCI 1, Top)
 5.	Huang, Yang, Yuling Chen, Xuewei Wang, Jing Yang, and **Qi Wang***. Promoting Adversarial Transferability via Dual-Sampling Variance Aggregation and Feature Heterogeneity Attacks. Electronics. 2023; 12(3):767. (**通讯作者**, IF: 2.690, SCI 3)
 6.	Zhou, Huizhou, Haoliang Zhao,**Qi Wang***, Liang Lei, Gefei Hao, Yusheng Xu, and Zhen Ye. 2022. EMO-MVS: Error-Aware Multi-Scale Iterative Variable Optimizer for Efficient Multi-View Stereo. Remote Sensing, 2022, 14(23):6085. (**通讯作者**, IF: 5.349, SCI 2, Top)
