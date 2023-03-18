@@ -16,25 +16,26 @@ Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi D
 [Porjects](#jump5)  
 [Patents](#jump6)  
 [Honors & Awards](#jump7)
+
+<span id = "jump1"></span>  
 ## Education
-<span id = "jump1"></span>
 2018.07 ~ 2021.02：Ph.D., Engineering Technology, Hasselt University  
 2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology  
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
+<span id = "jump2"></span>     
 ## Research Experience
-<span id = "jump2"></span>
+
 2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
 2019.01 ~ 2019.04: JD AI Lab, supervisor: [Tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)  
 2015.09 ~ 2020.12: Guangdong University of Technology, supervisor: [Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)，[Liang Lei](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
-
+<span id = "jump3"></span>  
 ## Research Interests
-<span id = "jump3"></span>
 Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot learning; Fine-grained analysis; Image captioning; Adversarial attack; Obiect detection; Image segmentation; Multi-view stereo; Depth estimation
 
+<span id = "jump4"></span>  
 ## Publications
-<span id = "jump4"></span>
 1. **Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks, 2023.03. 
 2. Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks,2023.03. 
 3. Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461.
@@ -51,17 +52,16 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 14. Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). 
 15. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
 
-
-## Porjects  
-<span id = "jump5"></span>
+<span id = "jump5"></span>  
+## Porjects
 1. PI, Wang Qi, Natural Science Foundation of Guizhou Provincial Department of Science and Technology, 2022.04-2025.04, Research on fine-grained identification of tea tree leaf image diseases (100,000 RMB), Qiankehe Foundation-ZK [2022] General 108. Ongoing    
 2. PI, Wang Qi, National Natural Science Foundation of China, 2022.01-2025.12, Theory and Research on Discrete Representation of Image Big Data (360,000 RMB), No. 62162008. Ongoing   
 3. PI, Wang Qi, Guizhou University Cultivation Project, 2021.09-2024.9, Theoretical Research on Big Data Based on Plant Disease Images (55,000 RMB), No.20210042. Ongoing   
 4. PI, Wang Qi, Special Gang Project of Guizhou University, 2021.06-2024.05, Research on Fine-grained Commodity Recognition with Small Samples (400,000 RMB), No. X2021227, Principal. Ongoing   
 5. PI, Qi Wang, Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures (15,900€), No. BOF20BL01. completed.  
 
+<span id = "jump6"></span>  
 ## Patents
-<span id = "jump6"></span>
 1.	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
 2.	A target monitoring method, system, equipment and storage media; 2018.05.28, CN201810522083.
 3.	A method, device and system for detecting the internal components of an object; 2017.09.07, CN2017108007464.
@@ -70,9 +70,8 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 6.	Automatic measurement system and measurement method based on feature point matching; 2016.06.08, CN2016104071109.
 7.	3D reconstruction system and its method for multiscale biaxial rotating laser images; 2015.12.22, CN201510980774X.
 
-
+<span id = "jump7"></span>  
 ## Honors & Awards
-<span id = "jump7"></span>
 1.	JD AI STAR INTERN. Time: 03/2019
 2.	National college students photoelectric design competition: 
 	Second place at school level and Third prize at national level. Time:5/2016
