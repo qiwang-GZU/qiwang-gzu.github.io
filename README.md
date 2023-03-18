@@ -9,12 +9,12 @@ Email: qiwang@gzu.edu.cn
 Google Scholar: [Qi.Wang](https://scholar.google.com/citations?user=jUcEacsAAAAJ&hl=zh-CN)   
 Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi Distriict, Guiyang City, Guizhou Province, China (550025)
 ## catalogue	
-[Education](#jump1) 
-[Research Experience](#jump2) 
-[Research Interests](#jump3) 
-[Publications](#jump4) 
-[Porjects](#jump5) 
-[Patents](#jump6) 
+[Education](#jump1)| 
+[Research Experience](#jump2)| 
+[Research Interests](#jump3)| 
+[Publications](#jump4)| 
+[Porjects](#jump5)| 
+[Patents](#jump6)| 
 [Honors & Awards](#jump7) 
 
 <span id = "jump1"></span>  
