@@ -1,6 +1,8 @@
 <img src="me.jpg" width = "220" height = "320">
 
-## 欢迎来到王崎的个人主页([Click for English](README.md))
+## 欢迎来到王崎的个人主页([Click for English](README.md))、
+
+
 
 王崎，特聘教授，硕士生导师，目前就职于[贵州大学](http://www.gzu.edu.cn/)公共大数据国家重点实验室，特聘教授岗位，硕士生导师, 获得贵州省高层次留学人才项目，担任农业大数据挖掘研究中心主任，贵州省人才发展研究所人工智能库专家，《贵州省劳动用工大数据综合服务平台》技术顾问，广东工业大学校外导师，担任多个顶级期刊和会议的论文审稿人。同时兼职广东工业大学校外导师。博士在读期间曾在京东人工智能研究院担任算法工程师，而后成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020年12月获得国内工学博士学位，2021年2月获得国外工程技术博士学位，是广东工业大学第一位获得双博士学位的毕业生。曾发表多篇SCI论文和发明专利，参与了多项国家及省级课题，曾多次获得了国际国内的知名科研竞赛奖项。此外，还担任一些国际顶级会议和期刊的审稿人，如ACMMM (CCF A 会议), TCYB, TNNLS, Neurocomputing, TKDD 等等。主持并完成了一项比利时国际双边科学合作项目，为中比双方科研合作奠定了良好的基础。
 
@@ -16,29 +18,29 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 **招生意向**：招收对人工智能、大数据方向、计算机视觉感兴趣的研究生。优秀者可推荐至腾讯优图、京东AI研究院等知名单位实习。对有读博意向的同学，非常优秀者可推荐至香港理工大学、比利时鲁汶大学等全球排名前100的知名高校读博，并辅助其申请留学生奖学金。此外，欢迎本科生来本课题组开展科研任务和本科毕业设计，感兴趣者请邮件联系。
 ### 目录
-科研经历  
-教育经历  
-论文  
-主持或参与的国家级及省级课题项目  
-发明专利  
-在读学生简介  
+[科研经历](#jump1)  
+[教育经历](#jump2)  
+[论文](#jump3)  
+[主持或参与的国家级及省级课题项目](#jump4)  
+[发明专利](#jump5)  
+[在读学生简介](#jump6)  
 
 ### 科研经历
-
+<span id = "jump1"></span>
 2021.03 ~ 现在 :   贵州大学，公共大数据国家重点实验室，特聘教授  
 2018.07 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
 2019.01 ~ 2019.04:  京东人工智能研究院，导师：[梅涛](http://taomei.me/), [刘武](http://liuwu.weebly.com/)  
 2015.09 ~ 2020.12:  国内硕博阶段，广东工业大学，导师：[刘文印](http://www.wislab.cn/liuwy/cv.htm)，[雷亮](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
 ### 教育经历
-
+<span id = "jump2"></span>
 2018.07 ~ 2021.02：博士，Engineering Technology，Hasselt University  
 2015.09 ~ 2020.12：博士，计算机应用工程，广东工业大学  
 2011.09 ~ 2015.06：本科，电子信息工程，西北民族大学
 
 
 ### 论文
-
+<span id = "jump3"></span>
 1.	**Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks. (IF: 9.657, SCI 1, CCF B, Top)
 2.	Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
 3.	Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461. (**通讯作者**, IF: 2.738, SCI 3)
@@ -57,6 +59,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 
 ### 主持或参与的国家级及省级课题项目
+<span id = "jump4"></span>
 1.	**王崎**，贵州省高层次留学人才创新创业项目，2023.04-2025.04，农业视觉在植物病害检测的研究与应用（10万），主持，在研
 2.	**王崎**，贵州省科技厅自然科学基金，2022.04-2025.04，基于茶树树叶图像病害的细粒度识别研究（10万），黔科合基础-ZK[2022]一般108，主持，在研  
 3.	**王崎**，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究(36万)，No. 62162008, 主持，在研  
@@ -70,6 +73,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 
 ### 发明专利
+<span id = "jump5"></span>
 1.	**王崎**，姜思君，吴鹏，吴兴财，黄前顶；发明实审：一种基于双目视觉的植物叶倾角测量方法； 2022.12.17，CN202211625046.3
 2.	**王崎**，裴之蕈，吴兴财，高杨杨，吴雪；发明实审：一种基于可见光图像的农业多光谱视觉重构方法； 2022.10.28，CN202211329001.1
 3.	**王崎**，李娜，吴晨阳，吴兴财，吴雪；发明实审：一种基于神经局域连接的线性分类方法； 2022.10.25，CN202211311775.1
@@ -87,8 +91,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 15.	多尺度双轴旋转激光影像三维重构系统及其方法；颜润明，雷亮，**王崎**，刘子强，钟嘉华，赖锦祥，周金运；2018.09.25，ZL201510980774.X.(授权)  
 
 ### 在读学生简介：
-
-
+<span id = "jump6"></span>
 吴兴财 (博士研究生, 研究方向:多模态任务学习、植物病害图像文本分析)    
 &emsp;&emsp;进入团队半年，当前以第一作者发表1篇ACMMM（CCF A Top），投稿1篇Netural Network（SCI 1区 Top）。  
 
