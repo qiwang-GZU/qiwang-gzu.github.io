@@ -25,22 +25,21 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 [发明专利](#jump5)  
 [在读学生简介](#jump6)  
 
+<span id = "jump1"></span>  
 ### 科研经历
-<span id = "jump1"></span>
 2021.03 ~ 现在 :   贵州大学，公共大数据国家重点实验室，特聘教授  
 2018.07 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
 2019.01 ~ 2019.04:  京东人工智能研究院，导师：[梅涛](http://taomei.me/), [刘武](http://liuwu.weebly.com/)  
 2015.09 ~ 2020.12:  国内硕博阶段，广东工业大学，导师：[刘文印](http://www.wislab.cn/liuwy/cv.htm)，[雷亮](https://yzw.gdut.edu.cn/info/1124/4546.htm)
 
+<span id = "jump2"></span>  
 ### 教育经历
-<span id = "jump2"></span>
 2018.07 ~ 2021.02：博士，Engineering Technology，Hasselt University  
 2015.09 ~ 2020.12：博士，计算机应用工程，广东工业大学  
 2011.09 ~ 2015.06：本科，电子信息工程，西北民族大学
 
-
+<span id = "jump3"></span>  
 ### 论文
-<span id = "jump3"></span>
 1.	**Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks. (IF: 9.657, SCI 1, CCF B, Top)
 2.	Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
 3.	Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461. (**通讯作者**, IF: 2.738, SCI 3)
@@ -57,9 +56,8 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 14.	Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (合作作者，EI)
 15.	K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (合作作者，SCI 2)  
 
-
+<span id = "jump4"></span>  
 ### 主持或参与的国家级及省级课题项目
-<span id = "jump4"></span>
 1.	**王崎**，贵州省高层次留学人才创新创业项目，2023.04-2025.04，农业视觉在植物病害检测的研究与应用（10万），主持，在研
 2.	**王崎**，贵州省科技厅自然科学基金，2022.04-2025.04，基于茶树树叶图像病害的细粒度识别研究（10万），黔科合基础-ZK[2022]一般108，主持，在研  
 3.	**王崎**，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究(36万)，No. 62162008, 主持，在研  
@@ -71,9 +69,8 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 9.	刘文印，广东省引进创新团队计划，2016.02-2021.01，城市轨道交通网络控制芯片与系统创新团队– 列车健康诊断与运维服务系统研发及产业化(10,000万)，No. 2014ZT05G157，参与
 10.	雷亮，国家自然科学基金，2017.01-2020.12，紫外飞秒脉冲光刻开关光纤光栅的实验研究(60万)，No. 61675050，参与  
 
-
+<span id = "jump5"></span>  
 ### 发明专利
-<span id = "jump5"></span>
 1.	**王崎**，姜思君，吴鹏，吴兴财，黄前顶；发明实审：一种基于双目视觉的植物叶倾角测量方法； 2022.12.17，CN202211625046.3
 2.	**王崎**，裴之蕈，吴兴财，高杨杨，吴雪；发明实审：一种基于可见光图像的农业多光谱视觉重构方法； 2022.10.28，CN202211329001.1
 3.	**王崎**，李娜，吴晨阳，吴兴财，吴雪；发明实审：一种基于神经局域连接的线性分类方法； 2022.10.25，CN202211311775.1
@@ -90,8 +87,9 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 14.	基于特征点匹配的自动测量系统及测量方法；赖锦祥，钟嘉华，**王崎**，叶浩荣，颜润明，雷亮；2019.03.05，ZL201610407110.9.(授权)   
 15.	多尺度双轴旋转激光影像三维重构系统及其方法；颜润明，雷亮，**王崎**，刘子强，钟嘉华，赖锦祥，周金运；2018.09.25，ZL201510980774.X.(授权)  
 
+
+<span id = "jump6"></span>  
 ### 在读学生简介：
-<span id = "jump6"></span>
 吴兴财 (博士研究生, 研究方向:多模态任务学习、植物病害图像文本分析)    
 &emsp;&emsp;进入团队半年，当前以第一作者发表1篇ACMMM（CCF A Top），投稿1篇Netural Network（SCI 1区 Top）。  
 
