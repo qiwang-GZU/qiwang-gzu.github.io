@@ -8,7 +8,8 @@ Mobile: +86-15603055556
 Email: qiwang@gzu.edu.cn   
 Google Scholar: [Qi.Wang](https://scholar.google.com/citations?user=jUcEacsAAAAJ&hl=zh-CN)   
 Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi Distriict, Guiyang City, Guizhou Province, China (550025)
-				
+## catalogue	
+[toc] 
 ## Education
 
 2018.07 ~ 2021.02：Ph.D., Engineering Technology, Hasselt University  
@@ -78,5 +79,3 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 	Third prize at Provincial level. Time: 06/2012
 9.	National software professionals design and entrepreneurship competition:
 	Honorable mention at national level. Time:03/2012   
-
-
