@@ -40,7 +40,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 <span id = "jump3"></span>  
 ### 论文
-1.	**Qi Wang**, JianJun Wanga, Hongyu Denga, Xue Wua, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023. (IF: 8.518, SCI 1, CCF B, Top))
+1.	**Qi Wang**, JianJun Wang, Hongyu Deng, Xue Wu, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023. (IF: 8.518, SCI 1, CCF B, Top))
 2.	Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks, 2023, 164: 351-362. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)
 3.  **Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks, 2023, 162: 318-329. (IF: 9.657, SCI 1, CCF B, Top)	
 4.	Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461. (**通讯作者**, IF: 2.738, SCI 3)
