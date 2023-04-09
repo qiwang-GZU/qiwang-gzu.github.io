@@ -36,7 +36,7 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 
 <span id = "jump4"></span>  
 ## Publications
-1. Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wua, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023.  
+1. Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wu, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023.  
 2. Xue Wu, Hongyu Deng, **Qi Wang***, YangYang Gao, Liang Lei, Ge-Fei Hao. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 03.   
 3. **Qi Wang**, JianJun Wang, Hongyu Deng, Xue Wu, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023, 140:109547.   
 4. Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks, 2023, 164: 351-362.   
