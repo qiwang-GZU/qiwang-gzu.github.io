@@ -40,7 +40,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 <span id = "jump3"></span>  
 ### 论文
-1.	Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wua, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023. (**通讯作者**, IF: 8.993, SCI 2, Top)  
+1.	Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wu, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023. (**通讯作者**, IF: 8.993, SCI 2, Top)  
 2.	Xue Wu, Hongyu Deng, **Qi Wang***, YangYang Gao, Liang Lei, Ge-Fei Hao. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 03. (**通讯作者**, IF: 7.091, SCI 1, Top)  
 3.	**Qi Wang**, JianJun Wang, Hongyu Deng, Xue Wu, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023, 140:109547. (IF: 8.518, SCI 1, CCF B, Top))  
 4.  Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks, 2023, 164: 351-362. (**通讯作者**, IF: 9.657, SCI 1, CCF B, Top)  
