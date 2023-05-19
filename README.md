@@ -36,7 +36,7 @@ Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot 
 
 <span id = "jump4"></span>  
 ## Publications
-1. Xinyu Dong, **Qi Wang***, Qianding Huang, Qinglong Ge, Kejun Zhao, Xingcai Wu, Xue Wu, Liang Lei, and Gefei Hao. PDDD-PreTrain: A series of common-used pre-trained models support image-based plant disease diagnosis. Plant Phenomics, 2023.  
+1. Xinyu Dong, **Qi Wang***, Qianding Huang, Qinglong Ge, Kejun Zhao, Xingcai Wu, Xue Wu, Liang Lei, and Gefei Hao. PDDD-PreTrain: A series of common-used pre-trained models support image-based plant disease diagnosis. Plant Phenomics, 2023, 05:0054.  
 2. Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wu, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023.  
 3. Xue Wu, Hongyu Deng, **Qi Wang***, YangYang Gao, Liang Lei, Ge-Fei Hao. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 03.   
 4. **Qi Wang**, JianJun Wang, Hongyu Deng, Xue Wu, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023, 140:109547.   
