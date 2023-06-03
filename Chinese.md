@@ -39,7 +39,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 2011.09 ~ 2015.06：本科，电子信息工程，西北民族大学
 
 <span id = "jump3"></span>  
-### 论文
+### 论文  
 1.	Xinyu Dong, **Qi Wang***, Qianding Huang, Qinglong Ge, Kejun Zhao, Xingcai Wu, Xue Wu, Liang Lei, and Gefei Hao. PDDD-PreTrain: A series of common-used pre-trained models support image-based plant disease diagnosis. Plant Phenomics, 2023, 05:0054. (**通讯作者**, IF: 6.961, SCI 1, Top)  
 2.	Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wu, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023, 04:6266209. (**通讯作者**, IF: 8.993, SCI 1, Top)  
 3.	Xue Wu, Hongyu Deng, **Qi Wang***, YangYang Gao, Liang Lei, Ge-Fei Hao. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 03. (**通讯作者**, IF: 7.091, SCI 1, Top)  
