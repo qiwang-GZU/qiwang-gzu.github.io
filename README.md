@@ -68,31 +68,42 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump6"></span>  
 ## Patents
-1.	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
-2.	A target monitoring method, system, equipment and storage media; 2018.05.28, CN201810522083.
-3.	A method, device and system for detecting the internal components of an object; 2017.09.07, CN2017108007464.
-4.	A laser marking system and a laser marking method for on-line visual guidance; 2017.08.24, CN2017107367392.
-5.	A flight marking system and control method based on general microscope and visual speed measurement; 2017.08.24, CN2017107361042.
-6.	Automatic measurement system and measurement method based on feature point matching; 2016.06.08, CN2016104071109.
-7.	3D reconstruction system and its method for multiscale biaxial rotating laser images; 2015.12.22, CN201510980774X.
+1.	A method for measuring plant leaf inclination based on binocular vision; 2022.12.17, CN202211625046.3
+2.	A multispectral visual reconstruction method for agriculture based on visible light image; 2022.10.28, CN202211329001.1
+3.	A linear classification method based on neural local connections; 2022.10.25, CN202211311775.1
+4.	A neuronal connection method based on discrete sequence floating-point transformation; 2022.10.09, CN202211228230.4
+5.	Construction and training method of lightweight target detection model for plant diseases and pests;2022.07.02, CN202210769212.0
+6.	A composite pseudo-label fitting method based on high-dimensional data distribution; 2022.03.16, CN202210254810.4	
+7.	A reconstruction method for calculating feature map boundaries based on small-scale parameter matrix; 2022.03.10, CN202210229602.9
+8.	An image feature extraction method based on weighted depth features; 2019.01.27, CN201910045648.3.
+9.	Video key frame extraction method, system, equipment and storage media; 2018.05.28, CN201810523467.
+10.	A target monitoring method, system, equipment and storage media; 2018.05.28, CN201810522083.
+11.	A method, device and system for detecting the internal components of an object; 2017.09.07, CN2017108007464.
+12.	A laser marking system and a laser marking method for on-line visual guidance; 2018.04.13, CN2017107367392.
+13.	A flight marking system and control method based on general microscope and visual speed measurement; 2018.04.13, CN2017107361042.
+14.	Automatic measurement system and measurement method based on feature point matching; 2016.06.08, CN2016104071109.
+15.	3D reconstruction system and its method for multiscale biaxial rotating laser images; 2015.12.22, CN201510980774X.
+16.	Perspective projection machine learning image data annotation system and method; 2018.07.26, CN201810836149.
+
 
 <span id = "jump7"></span>  
 ## Honors & Awards
 1.	JD AI STAR INTERN. Time: 03/2019
 2.	National college students photoelectric design competition: 
 	Second place at school level and Third prize at national level. Time:5/2016
-3.	The National information technology application level competition:                                                                                               Second prize at national level. Time:12/2013
-4.	China robot competition and Robo-Cup open challenge:
+3.	The National information technology application level competition:
+        Second prize at national level. Time:12/2013
+5.	China robot competition and Robo-Cup open challenge:
 	Second prize at national level. Time:10/2013                                                                                
-5.	The National electronic design competition:
+6.	The National electronic design competition:
 	Second prize at Provincial level. Time:09/2013
-6.	Freescale smart car race:
+7.	Freescale smart car race:
 	Enter the northwest division preliminary contest. Time: 06/2013
-7.	Gansu university student’s innovation cup application ability competition:
+8.	Gansu university student’s innovation cup application ability competition:
 	Second prize at Provincial level. Time: 10/2012
-8.	National electronic professionals design and skills competition:
+9.	National electronic professionals design and skills competition:
 	Third prize at Provincial level. Time: 06/2012
-9.	National software professionals design and entrepreneurship competition:
+10.	National software professionals design and entrepreneurship competition:
 	Honorable mention at national level. Time:03/2012   
 
 
