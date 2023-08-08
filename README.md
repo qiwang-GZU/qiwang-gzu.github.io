@@ -33,7 +33,7 @@ Address: Room 718, Chonghou Building of West Campus, Guizhou University, Huaxi D
 
 <span id = "jump3"></span>  
 ## Research Interests
-Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot learning; Fine-grained analysis; Image captioning; Adversarial attack; Obiect detection; Image segmentation; Multi-view stereo; Depth estimation
+Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image Analyze; Precision Agriculture; Plant Protection; Knowledge Discovery and Data Mining; Image analysis and understanding; Few-shot learning; Fine-grained analysis; Image captioning; Adversarial attack; Obiect detection; Image segmentation; Multi-view stereo; Depth estimation
 
 <span id = "jump4"></span>  
 ## Publications
