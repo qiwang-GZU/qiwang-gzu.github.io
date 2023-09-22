@@ -1,6 +1,6 @@
 <img src="me.jpg" width = "220" height = "320">
 
-## 欢迎来到王崎的个人主页([Click for English](README.md))
+## 欢迎来到王崎的个人主页([Click for English](English.md))
 
  
 
