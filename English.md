@@ -38,7 +38,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1. Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2023.
+1. Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2024,145:109961.
 2. Ting Wen, Jian-Hong Li, **Qi Wang***, Yang-Yang Gao, Ge-Fei Hao, and Bao-An Song. Thermal imaging: The digital eye facilitates high-throughput phenotyping traits of plant growth and stress responses. Science of The Total Environment, 2023, 899:165626.
 3. Qianding Huang, Xingcai Wu, **Qi Wang***, Xinyu Dong, Liang Lei, Xue Wu, Yangyang Gao, and Gefei Hao. Knowledge Distillation Facilitates the Lightweight and Efficient of Plant Diseases Detection Model. Plant Phenomics, 2023, 05:0062. 
 4. Xinyu Dong, **Qi Wang***, Qianding Huang, Qinglong Ge, Kejun Zhao, Xingcai Wu, Xue Wu, Liang Lei, and Gefei Hao. PDDD-PreTrain: A series of common-used pre-trained models support image-based plant disease diagnosis. Plant Phenomics, 2023, 05:0054.  
