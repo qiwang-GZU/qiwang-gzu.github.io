@@ -38,7 +38,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1. Yanming Miao#, Qi Wang#, Xianghong Tang, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.
+1. Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.
 2. Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023.10. 
 3. Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2024,145:109961.
 4. Ting Wen, Jian-Hong Li, **Qi Wang***, Yang-Yang Gao, Ge-Fei Hao, and Bao-An Song. Thermal imaging: The digital eye facilitates high-throughput phenotyping traits of plant growth and stress responses. Science of The Total Environment, 2023, 899:165626.
