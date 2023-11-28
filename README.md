@@ -122,3 +122,5 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 **黄前顶** (本科生, 研究方向:植物表型，作物病害检测)   
 &emsp;&emsp;进入团队1年半，当前以第一作者投稿1篇论文，包括SCI 1区和SCI 2区各1篇，申请发明专利2项（均进入实审），获得各种学科竞赛奖励若干。  
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5f45w6uao4l&amp;m=1c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;cw=ffffff&amp;cb=3243cf" async="async"></script>
