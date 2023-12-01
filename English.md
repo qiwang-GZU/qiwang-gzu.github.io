@@ -38,7 +38,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Research and development trends in plant growth regulators. 2023.11.
+1. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11.
 2. Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.11.
 3. Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023.10. 
 4. Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2024,145:109961.
