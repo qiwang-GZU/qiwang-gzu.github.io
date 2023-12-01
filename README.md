@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Research and development trends in plant growth regulators. 2023.11. (**通讯作者**) 
+1.  Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Research and development trends in plant growth regulators. Advanced Agrochem, 2023.11. (**通讯作者**) 
 2.  Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023 (**通讯作者**, IF: 7.0, SCI 2) 
 3.  Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023.10. (**共一和通讯**, IF: 14.9, SCI 1, Top)  
 4.  Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2024,145:109961. (**通讯作者**, IF: 8.0, SCI 1, CCF B, Top)  
