@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, 2023.(**通讯作者**, IF: 8.4, CCF B, SCI 1, Top)   
+1.  Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.(**通讯作者**, IF: 8.4, CCF B, SCI 1, Top)   
 2.  Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11. (**通讯作者**) 
 3.  Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023, 7099652:16. (**通讯作者**, IF: 7.0, SCI 2) 
 4.  Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023, gkad917. (**共一和通讯**, IF: 14.9, SCI 1, Top)  
