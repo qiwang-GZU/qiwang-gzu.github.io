@@ -38,7 +38,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, 2023.
+1. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
 2. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11.
 3. Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.11.
 4. Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023.10. 
