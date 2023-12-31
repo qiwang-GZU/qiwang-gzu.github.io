@@ -30,7 +30,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 2023.07 ~ 2024.07： 清华大学访问学者，导师：[刘永进](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)  
 2018.07 ~ 2021.02:  国外博士阶段，Hasselt University，导师：[Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
 2019.01 ~ 2019.04:  京东人工智能研究院，导师：[梅涛](http://taomei.me/), [刘武](http://liuwu.weebly.com/)  
-2015.09 ~ 2020.12:  国内硕博阶段，广东工业大学，导师：[刘文印](http://www.wislab.cn/liuwy/cv.htm)，[雷亮](https://yzw.gdut.edu.cn/info/1124/4546.htm)
+2015.09 ~ 2020.12:  国内硕博阶段，广东工业大学，导师：[刘文印](http://www.wislab.cn/liuwy/cv.htm)  
 
 <span id = "jump2"></span>  
 ### 教育经历
