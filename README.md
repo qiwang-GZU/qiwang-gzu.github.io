@@ -42,8 +42,8 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 ### 论文  
 
 1.  Jinxiang Zhu, **Qi Wang***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (**通讯作者**, IF: 8.4, CCF B, SCI 1, Top)
-2.  He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Wang Qi**, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. GMP 2024. (合作作者, Top 会议)
-3.  Ruoyu Fan, Wang Zhao, Matthieu Lin, **Qi Wang**, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. (合作作者, Top 会议)
+2.  He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Wang Qi**, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. GMP 2024. (合作作者, 图形学Top 会议)
+3.  Ruoyu Fan, Wang Zhao, Matthieu Lin, **Qi Wang**, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. (合作作者, 机器人Top 会议)
 4.  Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.(**通讯作者**, IF: 8.4, CCF B, SCI 1, Top)   
 5.  Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11. (**通讯作者**) 
 6.  Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023, 7099652:16. (**通讯作者**, IF: 7.0, SCI 2, Top) 
