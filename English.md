@@ -37,31 +37,34 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
-2. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11.
-3. Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.11.
-4. Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023.10. 
-5. Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2024,145:109961.
-6. Ting Wen, Jian-Hong Li, **Qi Wang***, Yang-Yang Gao, Ge-Fei Hao, and Bao-An Song. Thermal imaging: The digital eye facilitates high-throughput phenotyping traits of plant growth and stress responses. Science of The Total Environment, 2023, 899:165626.
-7. Qianding Huang, Xingcai Wu, **Qi Wang***, Xinyu Dong, Liang Lei, Xue Wu, Yangyang Gao, and Gefei Hao. Knowledge Distillation Facilitates the Lightweight and Efficient of Plant Diseases Detection Model. Plant Phenomics, 2023, 05:0062. 
-8. Xinyu Dong, **Qi Wang***, Qianding Huang, Qinglong Ge, Kejun Zhao, Xingcai Wu, Xue Wu, Liang Lei, and Gefei Hao. PDDD-PreTrain: A series of common-used pre-trained models support image-based plant disease diagnosis. Plant Phenomics, 2023, 05:0054.  
-9. Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wu, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023.  
-10. Xue Wu, Hongyu Deng, **Qi Wang***, YangYang Gao, Liang Lei, Ge-Fei Hao. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 03.   
-11. **Qi Wang**, JianJun Wang, Hongyu Deng, Xue Wu, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023, 140:109547.   
-12. Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks, 2023, 164: 351-362.   
-13. **Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks, 2023, 162: 318-329. 	
-14. Yancheng Sun, Yuling Chen, Peng Wu, Xuewei Wang, **Q. Wang***. DRL: Dynamic Rebalance Learning for Adversarial Robustness of UAV with Long-Tailed Distribution, Computer Communications, 2023, 205:14-23.   
-15. Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461.   
-16. Huang, Yang, Yuling Chen, Xuewei Wang, Jing Yang, and **Qi Wang***. Promoting Adversarial Transferability via Dual-Sampling Variance Aggregation and Feature Heterogeneity Attacks. Electronics. 2023; 12(3):767.  
-17. Zhou, Huizhou, Haoliang Zhao, **Qi Wang***, Liang Lei, Gefei Hao, Yusheng Xu, and Zhen Ye. EMO-MVS: Error-Aware Multi-Scale Iterative Variable Optimizer for Efficient Multi-View Stereo. Remote Sensing, 2022, 14(23):6085.  
-18. **Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10.  
-19. **Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564.  
-20. **Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26.  
-21. **Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067.  
-22. YANG Jing, LI Bin, LI Shaobo, Qi Wang, YU Liya, HU Jianjun, YUAN Kun. Brain-inspired Continuous Learning: Technology, Application and Future. Journal of Electronics & Information Technology, 2022, 44(5): 1865-1878.  
-23. Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640.  
-24. Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). 
-25. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
+1. Jinxiang Zhu, **Qi Wang***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024.
+2. He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, Wang Qi, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. GMP 2024.
+3. Ruoyu Fan, Wang Zhao, Matthieu Lin, Qi Wang, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. 
+4. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
+5. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11.
+6. Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.11.
+7. Xinyu Dong#, Kejun Zhao#, **Qi Wang#***, Xingcai Wu#, Yuanqin Huang#, et al. PlantPAD: a platform for large-scale image phenomics analysis of disease in plant science. Nucleic Acids Research. 2023.10. 
+8. Xingcai Wu, Kejun Zhao, Qianding Huang, **Qi Wang***, Zhenguo Yang, Gefei Hao. MISL: Multi-grained Image-text Semantic Learning for Text-guided Image Inpainting. Pattern Recognition, 2024,145:109961.
+9. Ting Wen, Jian-Hong Li, **Qi Wang***, Yang-Yang Gao, Ge-Fei Hao, and Bao-An Song. Thermal imaging: The digital eye facilitates high-throughput phenotyping traits of plant growth and stress responses. Science of The Total Environment, 2023, 899:165626.
+10. Qianding Huang, Xingcai Wu, **Qi Wang***, Xinyu Dong, Liang Lei, Xue Wu, Yangyang Gao, and Gefei Hao. Knowledge Distillation Facilitates the Lightweight and Efficient of Plant Diseases Detection Model. Plant Phenomics, 2023, 05:0062. 
+11. Xinyu Dong, **Qi Wang***, Qianding Huang, Qinglong Ge, Kejun Zhao, Xingcai Wu, Xue Wu, Liang Lei, and Gefei Hao. PDDD-PreTrain: A series of common-used pre-trained models support image-based plant disease diagnosis. Plant Phenomics, 2023, 05:0054.  
+12. Haolin Chen, **Qi Wang***, Weijian Ruan, Jingxiang Zhu, Liang Lei, Xue Wu, Gefei Hao. ALFPN: Adaptive Learning Feature Pyramid Network for Small Object Detection. International Journal of Intelligent Systems, 2023.  
+13. Xue Wu, Hongyu Deng, **Qi Wang***, YangYang Gao, Liang Lei, Ge-Fei Hao. Meta-learning Shows Great Potential in Plant Diseases Recognition Under Few Available Samples. The Plant Journal. 2023, 03.   
+14. **Qi Wang**, JianJun Wang, Hongyu Deng, Xue Wu, Yazhou Wang, Gefei Hao. AA-Trans: Core Attention Aggregating Transformer with Information Entropy Selector for Fine-grained Visual Classification. Pattern Recognition, 2023, 140:109547.   
+15. Huizhou Zhou, Haoliang Zhao, **Qi Wang***, Gefei Hao, Liang Lei. Miper-MVS: Multi-scale Itearative Probability Estimation with Refinement for Efficient Multi-View Stereo. Neural Networks, 2023, 164: 351-362.   
+16. **Qi Wang**, Hongyu Deng, Xue Wu, Zhenguo Yang, Yun Liu, Yazhou Wang, Gefei Hao. LCM-Captioner: A Lightweight Text-based Image Captioning method with Collaborative Mechanism between Vision and Text. Neural Networks, 2023, 162: 318-329. 	
+17. Yancheng Sun, Yuling Chen, Peng Wu, Xuewei Wang, **Q. Wang***. DRL: Dynamic Rebalance Learning for Adversarial Robustness of UAV with Long-Tailed Distribution, Computer Communications, 2023, 205:14-23.   
+18. Yuling Chen, Hao Yang, Xuewei Wang, **Qi Wang***, and Huiyu Zhou. 2023. GLH: From Global to Local Gradient Attacks with High-Frequency Momentum Guidance for Object Detection. Entropy 25, no. 3: 461.   
+19. Huang, Yang, Yuling Chen, Xuewei Wang, Jing Yang, and **Qi Wang***. Promoting Adversarial Transferability via Dual-Sampling Variance Aggregation and Feature Heterogeneity Attacks. Electronics. 2023; 12(3):767.  
+20. Zhou, Huizhou, Haoliang Zhao, **Qi Wang***, Liang Lei, Gefei Hao, Yusheng Xu, and Zhen Ye. EMO-MVS: Error-Aware Multi-Scale Iterative Variable Optimizer for Efficient Multi-View Stereo. Remote Sensing, 2022, 14(23):6085.  
+21. **Qi Wang**, Jinxiang Lai, Luc Claesen, Zhengguo Yang, Liang lei, Wenyin Liu. A Novel Feature Representation: Aggregating Convolution Kernels for Image Retrieval. Neural Networks, 2020, 130: 1-10.  
+22. **Qi Wang**, Xinchen Liu, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei. MetaSearch: Incremental Product Search via Deep Meta-learning. IEEE Transactions on Image Processing, 2020, 29: 7549-7564.  
+23. **Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26.  
+24. **Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067.  
+25. YANG Jing, LI Bin, LI Shaobo, Qi Wang, YU Liya, HU Jianjun, YUAN Kun. Brain-inspired Continuous Learning: Technology, Application and Future. Journal of Electronics & Information Technology, 2022, 44(5): 1865-1878.  
+26. Zhenguo Yang, Qing Li, Haoran Xie, **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640.  
+27. Kai Xu, **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). 
+28. K. Xu, Z. Yang, P. Kang, **Q. Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. 
 
 <span id = "jump5"></span>  
 ## Porjects
