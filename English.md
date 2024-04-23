@@ -38,7 +38,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 <span id = "jump4"></span>  
 ## Publications
 1. Jinxiang Zhu, **Qi Wang***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024.
-2. He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, Wang Qi, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. CAGD, 2024:102292.
+2. He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Qi Wang***, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. CAGD, 2024:102292.
 3. Ruoyu Fan, Wang Zhao, Matthieu Lin, Qi Wang, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. 
 4. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
 5. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11.
