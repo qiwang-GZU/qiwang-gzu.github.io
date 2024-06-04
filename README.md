@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 ### 论文  
 
 1.  Hongyu Deng, Yushan Xie, **Qi Wang∗**, Jianjun Wang, Weijian Ruan, Wu Liu, YongJin Liu. CDKM: Common and Distinct Knowledge Mining Network with Content Interaction for Dense Captioning. IEEE Transactions on Multimedia, 2024. (**通讯作者**, IF: 7.3, CCF B, SCI 1, Top)  
-2.  Han Chenb, **Qi Wang∗**, Kailin Xie, Liang Lei, Xue Wu. MPF-Net: Multi-Projection Filtering Network for Few-Shot Object Detection. Applied Intelligence, 2024. (**通讯作者**, IF: 5.3, CCF C, SCI 2)  
+2.  Han Chen, **Qi Wang∗**, Kailin Xie, Liang Lei, Xue Wu. MPF-Net: Multi-Projection Filtering Network for Few-Shot Object Detection. Applied Intelligence, 2024. (**通讯作者**, IF: 5.3, CCF C, SCI 2)  
 3.  Jinxiang Zhu#, **Qi Wang#***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (**共一和通讯**, IF: 8.4, CCF B, SCI 1, Top)
 4.  He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Wang Qi***, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. CAGD, 2024:102292. (**通讯作者**, 指导清华博士生发表CCF B类期刊)
 5.  Ruoyu Fan, Wang Zhao, Matthieu Lin, **Qi Wang**, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. (合作作者, 机器人Top 会议)
