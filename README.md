@@ -4,7 +4,7 @@
 
  
 
-王崎，特聘教授，硕士生导师，目前就职于[贵州大学](http://www.gzu.edu.cn/)公共大数据国家重点实验室，清华大学访问学者，获得贵州省高层次留学人才项目，贵阳贵安科技人才项目，贵州大学科研创新团队负责人，广东工业大学校外导师，贵州省大数据局专家库专家，贵州省人才发展研究所人工智能库专家，《贵州省劳动用工大数据综合服务平台》技术顾问。博士在读期间曾在京东人工智能研究院担任算法工程师，而后成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020年12月获得国内工学博士学位，2021年2月获得国外工程技术博士学位，是广东工业大学第一位获得双博士学位的毕业生。长期从事计算机视觉和智慧农业的相关研究，截至至今作为第一或者通讯作者发表SCI论文25篇，其中CCF A类和SCI 1区论文共计15篇，所发表的学术期刊论文累计影响因子（IF）>150，主持承担了1项国家自然科学基金，以及3项省部级课题，曾多次获得了国际国内的知名科研竞赛奖项，获11项中国发明专利授权。指导本科生发表SCI 1区论文并获国家级大学生创新创业项目1项，获得全国大学生挑战杯（大挑）全国特等奖以及若干省级校级竞赛奖励。此外，担任Plant Phenomics期刊青年编委，20多个国际顶级会议和期刊的审稿人，如TCYB, TNNLS, TMM, TKDD, ACMMM, Plant Phenomics等等。主持并完成了一项比利时国际双边科学合作项目，为中比双方科研合作奠定了良好的基础。  
+王崎，特聘教授，硕士生导师，目前就职于[贵州大学](http://www.gzu.edu.cn/)公共大数据国家重点实验室，清华大学访问学者，获得贵州省高层次留学人才项目，贵阳贵安科技人才项目，贵州大学科研创新团队负责人，广东工业大学校外导师，贵州省大数据局专家库专家，贵州省人才发展研究所人工智能库专家，《贵州省劳动用工大数据综合服务平台》技术顾问。博士在读期间曾在京东人工智能研究院担任算法工程师，而后成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020年12月获得国内工学博士学位，2021年2月获得国外工程技术博士学位，是广东工业大学第一位获得双博士学位的毕业生。长期从事计算机视觉和智慧农业的相关研究，截至至今作为第一或者通讯作者发表SCI论文26篇，其中CCF A类和SCI 1区论文共计16篇，所发表的学术期刊论文累计影响因子（IF）>150，主持承担了1项国家自然科学基金，以及3项省部级课题，曾多次获得了国际国内的知名科研竞赛奖项，获11项中国发明专利授权。指导本科生发表SCI 1区论文并获国家级大学生创新创业项目1项，获得全国大学生挑战杯（大挑）全国特等奖以及若干省级校级竞赛奖励。此外，担任Plant Phenomics期刊青年编委，20多个国际顶级会议和期刊的审稿人，如TCYB, TNNLS, TMM, TKDD, ACMMM, Plant Phenomics等等。主持并完成了一项比利时国际双边科学合作项目，为中比双方科研合作奠定了良好的基础。  
 
 研究方向：人工智能、计算机视觉、多模态理解和分析、智慧农业、大数据分析和理解、三维重构、植物病虫害多模态数据分析    
 邮箱：qiwang@gzu.edu.cn, wangqi@samlab.cn  
@@ -41,9 +41,9 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Hongyu Deng, Yushan Xie, **Qi Wang∗**, Jianjun Wang, Weijian Ruan, Wu Liu, YongJin Liu. CDKM: Common and Distinct Knowledge Mining Network with Content Interaction for Dense Captioning. IEEE Transactions on Multimedia, 2024. (**通讯作者**, IF: 7.3, CCF B, SCI 1, Top)  
-2.  Han Chen, **Qi Wang∗**, Kailin Xie, Liang Lei, Xue Wu. MPF-Net: Multi-Projection Filtering Network for Few-Shot Object Detection. Applied Intelligence, 2024. (**通讯作者**, IF: 5.3, CCF C, SCI 2)  
-3.  Chen D, Liu Y, Liu Y, Zhao K, Zhang T, Gao Y, **Wang Qi**, Song B, Hao G. ChemFREE: a one-stop comprehensive platform for ecological and environmental risk evaluation of chemicals in one health world. Nucleic Acids Res. 2024 Jun 4:gkae446. (合作作者, IF: 14.9, SCI 2, Top)   
+1.  Yaoxi Li, Xingcai Wu, **Qi Wang∗**, Zhixun Pei, Kejun Zhao, Panfeng Chen, Gefei Hao. CSNet: A Count-supervised Network via Multiscale MLP-Mixer for Wheat Ear Counting. Plant Phenomics, 2024. (**通讯作者**, IF: 7.6, SCI 1, Top)  
+2.  Hongyu Deng, Yushan Xie, **Qi Wang∗**, Jianjun Wang, Weijian Ruan, Wu Liu, YongJin Liu. CDKM: Common and Distinct Knowledge Mining Network with Content Interaction for Dense Captioning. IEEE Transactions on Multimedia, 2024. (**通讯作者**, IF: 7.3, CCF B, SCI 1, Top)  
+3.  Han Chen, **Qi Wang∗**, Kailin Xie, Liang Lei, Xue Wu. MPF-Net: Multi-Projection Filtering Network for Few-Shot Object Detection. Applied Intelligence, 2024. (**通讯作者**, IF: 5.3, CCF C, SCI 2)    
 4.  Jinxiang Zhu#, **Qi Wang#***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (**共一和通讯**, IF: 8.4, CCF B, SCI 1, Top)
 5.  He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Wang Qi***, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. CAGD, 2024:102292. (**通讯作者**, 指导清华博士生发表CCF B类期刊)
 6.  Ruoyu Fan, Wang Zhao, Matthieu Lin, **Qi Wang**, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. (合作作者, 机器人Top 会议)
