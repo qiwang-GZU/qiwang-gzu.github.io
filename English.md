@@ -37,12 +37,12 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1.  Yaoxi Li, Xingcai Wu, **Qi Wang∗**, Zhixun Pei, Kejun Zhao, Panfeng Chen, Gefei Hao. CSNet: A Count-supervised Network via Multiscale MLP-Mixer for Wheat Ear Counting. Plant Phenomics, 2024.
-2.  Hongyu Deng, Yushan Xie, **Qi Wang***, Jianjun Wang, Weijian Ruan, Wu Liu, YongJin Liu. CDKM: Common and Distinct Knowledge Mining Network with Content Interaction for Dense Captioning. IEEE Transactions on Multimedia, 2024.  
-3. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Xue Wu. MPF-Net: Multi-Projection Filtering Network for Few-Shot Object Detection. Applied Intelligence, 2024.   
-4. Jinxiang Zhu, **Qi Wang***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024.
-5. He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Qi Wang***, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. CAGD, 2024:102292.
-6. Ruoyu Fan, Wang Zhao, Matthieu Lin, Qi Wang, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. 
+1. Sijun Jiang, Xingcai Wu, **Qi Wang***, Zhixun Pei, Yuxiang Wang, Jian Jin, Ying Guo, Runjiang Song, Liansheng Zang, Yong-Jin Liu. Auto-LIA: The Automated Vision-based Leaf Inclination Angle Measurement System Improves Monitoring of Plant Physiology. Plant Phenomics, 2024.
+2. Yaoxi Li, Xingcai Wu, **Qi Wang∗**, Zhixun Pei, Kejun Zhao, Panfeng Chen, Gefei Hao. CSNet: A Count-supervised Network via Multiscale MLP-Mixer for Wheat Ear Counting. Plant Phenomics, 2024.
+3. Hongyu Deng, Yushan Xie, **Qi Wang***, Jianjun Wang, Weijian Ruan, Wu Liu, YongJin Liu. CDKM: Common and Distinct Knowledge Mining Network with Content Interaction for Dense Captioning. IEEE Transactions on Multimedia, 2024.  
+4. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Xue Wu. MPF-Net: Multi-Projection Filtering Network for Few-Shot Object Detection. Applied Intelligence, 2024.   
+5. Jinxiang Zhu, **Qi Wang***, et al. FSNA: Few-Shot Object Detection via Neighborhood Information Adaption and All Attention. IEEE Transactions on Circuits and Systems for Video Technology, 2024.
+6. He Yuze, Bai Yushi, Lin Matthieu, Sheng Jenny, Hu Yubin, **Qi Wang***, Wen Yu-Hui, Yong-Jin Liu. Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation. CAGD, 2024:102292. 
 7. Han Chen, **Qi Wang***, Kailin Xie, Liang Lei, Matthieu Gaetan Lin, Tian lv, Yongjin Liu, Jiebo Luo. SD-FSOD: Self-Distillation Paradigm via Distribution Calibration for Few-Shot Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
 8. Xue Wu, Daohong Gong, Kejun Zhao, Dongyu Chen, Yangyang Gao, **Qi Wang***, Yawen Dong Gefei Hao. Global research and development trends in plant growth regulators. Advanced Agrochem, 2023.11.
 9. Yanming Miao, Xianghong Tang, **Qi Wang***, Liya Yu. GDENet: Graph Differential Equations Network for Traffic Flow Prediction. International Journal of Intelligent Systems, 2023.11.
