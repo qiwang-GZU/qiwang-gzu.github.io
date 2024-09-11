@@ -114,26 +114,24 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 
 
 <span id = "jump6"></span>  
-### 在读学生简介：
-**吴兴财** (博士研究生, 研究方向:多模态任务学习、植物病害图像文本分析)    
-&emsp;&emsp;进入团队半年，当前以第一作者发表1篇ACMMM（CCF A Top），投稿1篇Netural Network（SCI 1区 Top）。  
+### 毕业学生简介：
 
 **周辉舟** (硕士研究生, 研究方向:三维重构，立体视觉)   
-&emsp;&emsp;硕士期间以第一作者发表4篇学术论文CVPR（CCF A Top），Remote Sensing（SCI 2区 Top），Netural Network（SCI 1区 Top），ACCV(CCF C)，获得华为DIGIX2021人工智能大赛星光卓越奖，2023年6月毕业，虽本科毕业于大连交通大学（二本，英语四级），但目前已获得中山大学博士入学offer。  
+&emsp;&emsp;硕士期间以第一作者发表4篇学术论文CVPR（CCF A Top），Remote Sensing（SCI 2区 Top），Netural Network（SCI 1区 Top），ACCV(CCF C)，获得华为DIGIX2021人工智能大赛星光卓越奖，2023年6月毕业，虽本科毕业于大连交通大学（二本，英语四级），中山大学攻读博士学位。  
 
 **邓宏宇** (硕士研究生, 研究方向:计算机视觉、图像文本分析)   
-&emsp;&emsp;进入团队1年半，当前以第一作者发表2篇学术论文Netural Network（SCI 1区 Top），The Plant Journal（SCI 1区 Top），获得各种学科类竞赛奖励若干。  
+&emsp;&emsp;以第一作者发表3篇学术论文Netural Network（SCI 1区 Top），The Plant Journal（SCI 1区 Top），TCSVT（SCI 1区 Top），获得各种学科类竞赛奖励若干，目前在中国工商银行工作，年薪20万。  
 
 **董新宇** (硕士研究生, 研究方向:图像文本分析、图像表征)   
-&emsp;&emsp;进入团队1年半，当前以第一作者投稿2篇学术论文，Plant Phenomics（SCI 1区 Top）和IEEE Trans Artificial Intelligence各1篇，获得各种学科类竞赛奖励若干。  
+&emsp;&emsp;以第一作者发表2篇学术论文，Plant Phenomics（SCI 1区 Top）和NAR（SCI 1区 Top）各1篇，获得各种学科类竞赛奖励若干，目前在贵州大学攻读博士学位。  
 
 **王建军** (硕士研究生, 研究方向:计算机视觉、图像细粒度分析)  
-&emsp;&emsp;进入团队1年半，当前以第一作者发表1篇学术论文Pattern Recognition（SCI 1区 Top），曾在国际知名学术会议上就行学术汇报。  
+&emsp;&emsp;以第一作者发表2篇学术论文Pattern Recognition（SCI 1区 Top）和Netural Network（SCI 1区 Top），曾在国际知名学术会议上就行学术汇报，目前在苏州银行工作，年薪30万。  
 
 **吴晨阳** (本科生, 研究方向:计算机视觉、视觉可解释性)   
-&emsp;&emsp;进入团队1年半，当前以第一作者投稿2篇论文，包括SCI 1区和SCI 2区各1篇，申请发明专利2项（均进入实审），获得全国大学生创新创业项目，获得各种学科类竞赛奖励若干。  
+&emsp;&emsp;授权发明专利1项，获得全国大学生创新创业项目，获得各种学科类竞赛奖励若干，目前在南开大学硕博连读。  
 
 **黄前顶** (本科生, 研究方向:植物表型，作物病害检测)   
-&emsp;&emsp;进入团队1年半，当前以第一作者投稿1篇论文，包括SCI 1区和SCI 2区各1篇，申请发明专利2项（均进入实审），获得各种学科竞赛奖励若干。  
+&emsp;&emsp;以第一作者发表1篇论文，授权发明专利1项，获得各种学科竞赛奖励若干，目前在贵州大学攻读硕士学位。  
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5f45w6uao4l&amp;m=1c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;cw=ffffff&amp;cb=3243cf" async="async"></script>
