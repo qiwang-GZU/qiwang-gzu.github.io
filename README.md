@@ -11,7 +11,7 @@
 个人主页：[qiwang.me](https://qiwang.me/)  
 谷歌学术：[qiwang.scholar.google](https://scholar.google.com/citations?user=jUcEacsAAAAJ&hl=zh-CN)  
 Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)  
-通讯地址：贵州省贵阳市花溪区贵州大学西校区崇厚楼718室(550025)  
+通讯地址：贵州省贵阳市花溪区贵州大学西校区崇厚楼926室(550025)  
 人生格言：Chance favors the prepared mind！   
 
 
@@ -41,7 +41,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Qinglei Li, **Qi Wang∗**, Yongbin Qin, Xinyu Dong, Xingcai Wu, Shiming Chen, Wu Liu, Member, Yong-Jin Liu, Jiebo Luo. DRC: Discrete Representation Classifier with Salient Features via Fixed-prototype. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (**通讯**, IF: 8.4, CCF B, SCI 1, Top)
+1.  Qinglei Li, **Qi Wang∗**, Yongbin Qin, Xinyu Dong, Xingcai Wu, Shiming Chen, Wu Liu, Member, Yong-Jin Liu, Jiebo Luo. DRC: Discrete Representation Classifier with Salient Features via Fixed-prototype. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (**通讯作者**, IF: 8.4, CCF B, SCI 1, Top)
 2.  Sijun Jiang, Xingcai Wu, **Qi Wang***, Zhixun Pei, Yuxiang Wang, Jian Jin, Ying Guo, Runjiang Song, Liansheng Zang, Yong-Jin Liu. Auto-LIA: The Automated Vision-based Leaf Inclination Angle Measurement System Improves Monitoring of Plant Physiology. Plant Phenomics, 2024. (**通讯作者**, IF: 7.6, SCI 1, Top)  
 3.  Yaoxi Li, Xingcai Wu, **Qi Wang***, Zhixun Pei, Kejun Zhao, Panfeng Chen, Gefei Hao. CSNet: A Count-supervised Network via Multiscale MLP-Mixer for Wheat Ear Counting. Plant Phenomics, 2024. (**通讯作者**, IF: 7.6, SCI 1, Top)  
 4.  Hongyu Deng, Yushan Xie, **Qi Wang***, Jianjun Wang, Weijian Ruan, Wu Liu, YongJin Liu. CDKM: Common and Distinct Knowledge Mining Network with Content Interaction for Dense Captioning. IEEE Transactions on Multimedia, 2024. (**通讯作者**, IF: 7.3, CCF B, SCI 1, Top)  
