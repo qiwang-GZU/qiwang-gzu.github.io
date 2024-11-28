@@ -135,5 +135,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 **黄前顶** (本科生, 研究方向:植物表型，作物病害检测)   
 &emsp;&emsp;以第一作者发表1篇论文，授权发明专利1项，获得各种学科竞赛奖励若干，目前在贵州大学攻读硕士学位。  
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5f45w6uao4l&amp;m=1c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;cw=ffffff&amp;cb=3243cf" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5f45w6uao4l&amp;m=1c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;cw=ffffff&amp;cb=3243cf" async="async"></script>  
+  <div style="margin-top: 80px;width:160px;height:160px" name='my_map' style="text-align: center;">  
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=U95H87cY1da_YTMpevR3pGfpMamNpcAyncVwmE2r7Vs"></script>
+  </div>
