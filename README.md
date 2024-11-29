@@ -41,7 +41,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Guojun Chen, Panfeng Chen, **Qi Wang***, Hui Li, Xin Zhou, Xibin Wang, Aihua Yu,Xingzhi Deng. EMGE: Entities and Mentions Gradual Enhancement with semantics and connection modelling for document-level relation extraction, Knowledge-Based Systems,2024.(**通讯作者**，IF:7.2, SCI 1, Top)
+1.  Guojun Chen, Panfeng Chen, **Qi Wang***, Hui Li, Xin Zhou, Xibin Wang, Aihua Yu,Xingzhi Deng. EMGE: Entities and Mentions Gradual Enhancement with semantics and connection modelling for document-level relation extraction, Knowledge-Based Systems,2024. (**通讯作者**，IF:7.2, SCI 1, Top)
 2.  Kejun Zhao, Xingcai Wu, Yuanyuan Xiao, Sijun Jiang, Peijia Yu, Yazhou Wang, **Qi Wang***. PlanText: Gradually Masked Guidance to Align Image Phenotype with Trait Description for Plant Disease Texts. Plant Phenomics, 2024. (**通讯作者**, IF: 7.6, SCI 1, Top)  
 3.  Qinglei Li, **Qi Wang***, Yongbin Qin, Xinyu Dong, Xingcai Wu, Shiming Chen, Wu Liu, Member, Yong-Jin Liu, Jiebo Luo. DRC: Discrete Representation Classifier with Salient Features via Fixed-prototype. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (**通讯作者**, IF: 8.4, CCF B, SCI 1, Top)
 4.  Sijun Jiang, Xingcai Wu, **Qi Wang***, Zhixun Pei, Yuxiang Wang, Jian Jin, Ying Guo, Runjiang Song, Liansheng Zang, Yong-Jin Liu. Auto-LIA: The Automated Vision-based Leaf Inclination Angle Measurement System Improves Monitoring of Plant Physiology. Plant Phenomics, 2024. (**通讯作者**, IF: 7.6, SCI 1, Top)  
