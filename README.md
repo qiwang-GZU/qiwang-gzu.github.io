@@ -41,7 +41,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Yang Huang, Xingcai Wu, Zhenbo Liu, **Qi Wang***, Shichao Jin, Chaoyang Xie, Gefei Hao. Multimodal Weed Infestation Rate Prediction Framework for Efficient Farmland Management. Computers and Electronics in Agriculture, 2025.04. (**通讯作者, IF: 7.6, SCI 1, Top**)  
+1.  Yang Huang, Xingcai Wu, Zhenbo Liu, **Qi Wang***, Shichao Jin, Chaoyang Xie, Gefei Hao. Multimodal Weed Infestation Rate Prediction Framework for Efficient Farmland Management. Computers and Electronics in Agriculture, 2025.04. (**通讯作者, IF: 7.7, SCI 1, Top**)  
 2.  Zhixun Pei, Xingcai Wu, Xue Wu, Yuanyuan Xiao, Peijia Yu, Zhenran Gao, **Qi Wang***, and Wei Guo. Segmenting Vegetation from UAV Images via Spectral Reconstruction in Complex Field Environments. Plant Phenomics, 2025.03. (**通讯作者, IF: 7.6, SCI 1, Top**)
 3.  Xinyu Dong, **Qi Wang#***, et al. From Global to Hybrid: A Review of Supervised Deep Learning for 2D Image Feature Representation. IEEE Transactions on Artificial Intelligence, 2025.01. (**通讯作者**)  
 4.  Guojun Chen, Panfeng Chen, **Qi Wang***, Hui Li, Xin Zhou, Xibin Wang, Aihua Yu,Xingzhi Deng. EMGE: Entities and Mentions Gradual Enhancement with semantics and connection modelling for document-level relation extraction. Knowledge-Based Systems,2024. (**通讯作者，IF:7.2, SCI 1, Top**)
