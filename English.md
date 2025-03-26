@@ -37,8 +37,9 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Plant Disease Image
 
 <span id = "jump4"></span>  
 ## Publications
-1. Zhixun Pei, Xingcai Wu, Xue Wu, Yuanyuan Xiao, Peijia Yu, Zhenran Gao, **Qi Wang***, and Wei Guo. Segmenting Vegetation from UAV Images via Spectral Reconstruction in Complex Field Environments. Plant Phenomics, 2025.03.   
-2. Xinyu Dong, **Qi Wang#***, et al. From Global to Hybrid: A Review of Supervised Deep Learning for 2D Image Feature Representation. IEEE Transactions on Artificial Intelligence, 2025.01.  
+1. Yang Huang, Xingcai Wu, Zhenbo Liu, **Qi Wang***, Shichao Jin, Chaoyang Xie, Gefei Hao. Multimodal Weed Infestation Rate Prediction Framework for Efficient Farmland Management. Computers and Electronics in Agriculture, 2025.04.    
+2. Zhixun Pei, Xingcai Wu, Xue Wu, Yuanyuan Xiao, Peijia Yu, Zhenran Gao, **Qi Wang***, and Wei Guo. Segmenting Vegetation from UAV Images via Spectral Reconstruction in Complex Field Environments. Plant Phenomics, 2025.03.   
+3. Xinyu Dong, **Qi Wang#***, et al. From Global to Hybrid: A Review of Supervised Deep Learning for 2D Image Feature Representation. IEEE Transactions on Artificial Intelligence, 2025.01.  
 2. Guojun Chen, Panfeng Chen, **Qi Wang***, Hui Li, Xin Zhou, Xibin Wang, Aihua Yu,Xingzhi Deng. EMGE: Entities and Mentions Gradual Enhancement with semantics and connection modelling for document-level relation extraction, Knowledge-Based Systems, 2024.
 3. Kejun Zhao, Xingcai Wu, Yuanyuan Xiao, Sijun Jiang, Peijia Yu, Yazhou Wang, **Qi Wang***. PlanText: Gradually Masked Guidance to Align Image Phenotype with Trait Description for Plant Disease Texts. Plant Phenomics, 2024.  
 4. Qinglei Li, **Qi Wang∗**, Yongbin Qin, Xinyu Dong, Xingcai Wu, Shiming Chen, Wu Liu, Member, Yong-Jin Liu, Jiebo Luo. DRC: Discrete Representation Classifier with Salient Features via Fixed-prototype. IEEE Transactions on Circuits and Systems for Video Technology, 2024.  
