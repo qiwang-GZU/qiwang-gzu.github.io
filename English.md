@@ -20,7 +20,7 @@ Address: Room 926, Chonghou Building of West Campus, Guizhou University, Huaxi D
 <span id = "jump1"></span>  
 ## Education
 2018.07 ~ 2021.02：Ph.D., Engineering Technology, Hasselt University  
-2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology  
+<!--2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology  -->   
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
 <span id = "jump2"></span>     
@@ -29,7 +29,7 @@ Address: Room 926, Chonghou Building of West Campus, Guizhou University, Huaxi D
 2023/07 ~2024/07： Tsinghua University, Visiting scholar, supervisor: [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)  
 2018.07 ~ 2021.02: Hasselt University, supervisor: [Luc Claesen](https://www.uhasselt.be/fiche?voornaam=luc&naam=claesen#fiche)  
 2019.01 ~ 2019.04: JD AI Lab, supervisor: [Tao mei](http://taomei.me/), [Wu Liu](http://liuwu.weebly.com/)  
-2015.09 ~ 2020.12: Guangdong University of Technology, supervisor: [Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm)  
+<!--2015.09 ~ 2020.12: Guangdong University of Technology, supervisor: [Wenyin Liu](http://www.wislab.cn/liuwy/cv.htm) -->  
 
 <span id = "jump3"></span>  
 ## Research Interests
