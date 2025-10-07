@@ -107,7 +107,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 -->   
 1. **王崎**，国家数据局，2025.09-2027.09，全国作物病虫草-农药多模态植物保护数据集，No. 62506089，项目负责人，在研  
 2. **王崎**，国家自然科学基金，2026.01-2028.12，面向农作物关键表型的空间离散细粒度感知与跨时空特征漂移学习研究，主持，在研  
-3. **王崎**，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究，No. 62162008, 主持，在研 
+3. **王崎**，国家自然科学基金，2022.01-2025.12，图像大数据的离散化表征理论和研究，No. 62162008, 主持并完成  
 4. **Qi Wang**,  Belgium International Bilateral Scientific Cooperation Project-BOF 2020, 2020.01.01-2020.12.30, Deep Learning Content-Based Few-Shot Product Image Retrieval Algorithms and Architectures, No. BOF20BL01, 主持并完成.  
 
 
