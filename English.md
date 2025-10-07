@@ -37,7 +37,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Artificial Intellig
 
 <span id = "jump4"></span>  
 ## Publications
-1. Xingcai Wu, Jiawei Zhang, Ziang Zou, Chaojie Chen, Ya Yu, Peijia Yu, Yuanyuan Xiao, **Qi Wang***, W.M.W.W. Kandegama, Gefei Hao. PlantIF: Multimodal Semantic Interactive Fusion for Plant Disease Diagnosis. Plant Phenomics.  
+1. Xingcai Wu, Jiawei Zhang, Ziang Zou, Chaojie Chen, Ya Yu, Peijia Yu, Yuanyuan Xiao, **Qi Wang***, W.M.W.W. Kandegama, Gefei Hao. PlantIF: Multimodal Semantic Interactive Fusion for Plant Disease Diagnosis. Plant Phenomics, 2025 otc.  
 2. Yongjun Zhou, Qinglei Li, Chenyang Wu, Yuanyuan Xiao, Yuquan Li, **Qi Wang***. A Generalized CNN Decision Boundary Theory Based On Non-Euclidean Space. Applied Intelligence, 2025 August.  
 3. Hui Zhang, Haoxuan Su, Tie Shen, Guangyao Sun and  **Qi Wang***. Integrating PROSPECT-D physics and adversarial domain adaptation resnet for robust cross-ecosystem plant traits estimation. Frontiers in Plant Science, 2025 July.
 4. Lufu Qin, Xingcai Wu, Xinyu Dong, Huan Wang, Tingwei Yang, Qi Wang*. PDD-AGENT: MULTIMODAL LARGE LANGUAGE MODEL-DRIVEN AI AGENT FOR ENHANCED PLANT DISEASE DIAGNOSIS. ICIP, 2025.   
@@ -77,7 +77,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Artificial Intellig
 38. **Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26.  
 39. **Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In Proceedings of the 26th ACM international conference on Multimedia, 2018, pp. 2063-2067.  
 40. Khadija Javed, Guy Smagghe, Ying-Qian Kang, **Qi Wang** and Yong Wang. Artificial intelligence in the mass production of natural enemies for biological control in modern agriculture. Pest Management Science, 2025
-41. Guojun Chen, Panfeng Chen*, Hui Li, Xibin Wang, Xin Zhou, Aihua Yu, Xingzhi Deng, Qi Wang. Relation Semantic Guidance and Entity Position Location for Relation Extraction. Data Science and Engineering, 2024 (IF: 5.1, SCI 2)
+41. Guojun Chen, Panfeng Chen*, Hui Li, Xibin Wang, Xin Zhou, Aihua Yu, Xingzhi Deng, Qi Wang. Relation Semantic Guidance and Entity Position Location for Relation Extraction. Data Science and Engineering, 2024.   
 42. Dongyu Chen, Yingwei Liu, Yang Liu, Kejun Zhao, Tianhan Zhang, Yangyang Gao, **Qi Wang**, Baoan Song, Gefei Hao, ChemFREE: a one-stop comprehensive platform for ecological and environmental risk evaluation of chemicals in one health world, Nucleic Acids Research, 2024;, gkae446.  
 43. Ruoyu Fan, Wang Zhao, Matthieu Lin, **Qi Wang**, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024.  
 44. YANG Jing, LI Bin, LI Shaobo, Qi Wang, YU Liya, HU Jianjun, YUAN Kun. Brain-inspired Continuous Learning: Technology, Application and Future. Journal of Electronics & Information Technology, 2022, 44(5): 1865-1878.  
