@@ -41,7 +41,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Yujiao Dan, Xingcai Wu, Ya Yu, Ziang Zou, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, Qi Wang*, DKP-ADS: domain knowledge prompt combined with multi-task learning for assessment of foliar disease severity in staple crops. The Crop Journal, 2025 Otc. (**通讯作者, IF: 5.6, SCI 1, Top**)    
+1.  Yujiao Dan, Xingcai Wu, Ya Yu, Ziang Zou, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, **Qi Wang***, DKP-ADS: domain knowledge prompt combined with multi-task learning for assessment of foliar disease severity in staple crops. The Crop Journal, 2025 Otc. (**通讯作者, IF: 5.6, SCI 1, Top**)    
 2.  Xingcai Wu, Jiawei Zhang, Ziang Zou, Chaojie Chen, Ya Yu, Peijia Yu, Yuanyuan Xiao, **Qi Wang***, W.M.W.W. Kandegama, Gefei Hao. PlantIF: Multimodal Semantic Interactive Fusion for Plant Disease Diagnosis. Plant Phenomics, 2025 Sep. (**通讯作者, IF: 7.6, SCI 1, Top**)    
 3.  Yongjun Zhou, Qinglei Li, Chenyang Wu, Yuanyuan Xiao, Yuquan Li, **Qi Wang***. A Generalized CNN Decision Boundary Theory Based On Non-Euclidean Space. Applied Intelligence, 2025 August. (**通讯作者, IF: 3.5, SCI 3**)   
 4.  Hui Zhang, Haoxuan Su, Tie Shen, Guangyao Sun and  **Qi Wang***. Integrating PROSPECT-D physics and adversarial domain adaptation resnet for robust cross-ecosystem plant traits estimation. Frontiers in Plant Science, 2025 July. (**通讯作者, IF: 4.8, SCI 2**)   
