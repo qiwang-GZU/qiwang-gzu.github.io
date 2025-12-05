@@ -4,7 +4,7 @@
 
  
 
-王崎，特聘教授，硕士生导师，目前就职于[贵州大学](http://www.gzu.edu.cn/)公共大数据国家重点实验室，清华大学访问学者，获得贵州省青年科技拔尖人才项目，科协青年托举人才项目，贵州省高层次留学人才项目，贵阳贵安科技人才项目，贵州大学科研创新团队负责人，贵州省大数据局专家库专家，贵州省人才发展研究所人工智能库专家。博士在读期间曾在京东人工智能研究院担任算法工程师，而后成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020年12月获得国内工学博士学位，2021年2月获得国外工程技术博士学位。长期从事计算机视觉和智慧农业的相关研究，截至至今作为第一或者通讯作者发表SCI或CCF学术论文42篇，其中CCF A类和SCI 1区论文共计26篇，主持承担了国家数据局高质量数据集先行先试项目，2项国家自然科学基金，以及3项省部级课题，曾多次获得了国际国内的知名科研竞赛奖项，获28项中国发明专利授权。指导本科生发表SCI 1区论文并获国家级大学生创新创业项目1项，获得全国大学生挑战杯（大挑）全国特等奖以及若干省级校级竞赛奖励。此外，担任Journal of Integrative Agriculture 执行编辑, Plant Phenomics 青年编委，20多个国际顶级会议和期刊的审稿人，如TCYB, TNNLS, TMM, TKDD, ACMMM, Plant Phenomics等等。主持并完成了一项比利时国际双边科学合作项目，为中比双方科研合作奠定了良好的基础。  
+王崎，特聘教授，硕士生导师，目前就职于[贵州大学](http://www.gzu.edu.cn/)公共大数据国家重点实验室，清华大学访问学者，获得贵州省青年科技拔尖人才项目，科协青年托举人才项目，贵州省高层次留学人才项目，贵阳贵安科技人才项目，贵州大学科研创新团队负责人。博士在读期间曾在京东人工智能研究院担任算法工程师，而后成为广东省和比利时林堡省在国际教育合作方面的第一位联合培养博士研究生，并于2020年12月获得国内工学博士学位，2021年2月获得国外工程技术博士学位。长期从事计算机视觉和智慧农业的相关研究，截至至今作为第一或者通讯作者发表SCI或CCF学术论文42篇，其中CCF A类和SCI 1区论文共计26篇，主持承担了国家数据局高质量数据集先行先试项目，2项国家自然科学基金，以及3项省部级课题，曾多次获得了国际国内的知名科研竞赛奖项，获28项中国发明专利授权，主持并完成了一项比利时国际双边科学合作项目，为中比双方科研合作奠定了良好的基础。。指导本科生发表SCI 1区论文并获国家级大学生创新创业项目1项，获得全国大学生挑战杯（大挑）全国特等奖以及若干省级校级竞赛奖励。此外，担任Journal of Integrative Agriculture 执行编辑, Plant Phenomics 青年编委，20多个国际顶级会议和期刊的审稿人，如TCYB, TNNLS, TMM, TKDD, ACMMM, Plant Phenomics等等。  
 
 研究方向：人工智能、计算机视觉、多模态理解和分析、智慧农业、大数据分析和理解、三维方向、植物病虫害多模态数据分析、分子生成和属性预测、多/高光谱方向    
 邮箱：qiwang@gzu.edu.cn, wangqi@samlab.cn  
@@ -41,7 +41,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Chaojie Chen, Xingcai Wu, Wu Liu,  **Qi Wang***. AdaptiveMamba: Comprehensive Visual Representation Learning with Adaptive Semantic Perception. Knowledge-Based Systems, 2025 Dec.  (**通讯作者, IF: 7.5, SCI 1**)   
+1.  Chaojie Chen, Xingcai Wu, Wu Liu, **Qi Wang***. AdaptiveMamba: Comprehensive Visual Representation Learning with Adaptive Semantic Perception. Knowledge-Based Systems, 2025 Dec.  (**通讯作者, IF: 7.5, SCI 1**)   
 2.  Chaojie Chen, Xingcai Wu, Jinxiang Lai, Ran Yi, Minjing Yu, Yongbin Qin, Yong-Jin Liu, **Qi Wang***. GMamba: Focused and Flexible Visual Perception via Adaptive Integration of State Space Models and Graph Neural Networks. IEEE Transactions on Emerging Topics in Computational Intelligence, 2025 Nov.  (**通讯作者, IF: 6.5, SCI 2**)   
 3.  Yujiao Dan, Xingcai Wu, Ya Yu, Ziang Zou, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, **Qi Wang***. DKP-ADS: domain knowledge prompt combined with multi-task learning for assessment of foliar disease severity in staple crops. The Crop Journal, 2025 Otc. (**通讯作者, IF: 5.6, SCI 1, Top**)    
 4.  Xingcai Wu, Jiawei Zhang, Ziang Zou, Chaojie Chen, Ya Yu, Peijia Yu, Yuanyuan Xiao, **Qi Wang***, W.M.W.W. Kandegama, Gefei Hao. PlantIF: Multimodal Semantic Interactive Fusion for Plant Disease Diagnosis. Plant Phenomics, 2025 Sep. (**通讯作者, IF: 7.6, SCI 1, Top**)    
