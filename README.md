@@ -9,7 +9,7 @@
 研究方向：人工智能、计算机视觉、多模态理解和分析、智慧农业、大数据分析和理解、三维方向、植物病虫害多模态数据分析、分子生成和属性预测、多/高光谱方向    
 邮箱：qiwang@gzu.edu.cn, wangqi@samlab.cn  
 个人主页：[qiwang.me](https://qiwang.me/)  
-团队主页：samlab.cn(https://samlab.cn/)  
+团队主页：[samlab.cn](https://samlab.cn/)  
 谷歌学术：[qiwang.scholar.google](https://scholar.google.com/citations?user=jUcEacsAAAAJ&hl=zh-CN)  
 Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)  
 通讯地址：贵州省贵阳市花溪区贵州大学西校区崇厚楼926室(550025)  
