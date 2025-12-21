@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Khadija Javed, Guy Smagghe,  **Qi Wang***, Humayun Javed, Yong Wang. Artificial intelligence in crop protection: revolutionizing agriculture for a sustainable future, 2025 Dec.  (**通讯作者, IF: 7.4, SCI 1，TOP**)   
+1.  Khadija Javed, Guy Smagghe,  **Qi Wang***, Humayun Javed, Yong Wang. Artificial intelligence in crop protection: revolutionizing agriculture for a sustainable future. Information Processing in Agriculture, 2025 Dec.  (**通讯作者, IF: 7.4, SCI 1，TOP**)   
 2.  Huiyang Hong, Xinkai Wu , Hongyu Sun , Chaoyang Xie , **Qi Wang***. Learning Hierarchical Interaction for Accurate Molecular Property Prediction. Communications Chemistry, 2025 Dec.  (**通讯作者, IF: 6.2, SCI 1，TOP**)   
 3.  Chaoyang Xie, Junhu Xu, Guangyi Huang, Shihang Wang, Mutian He, Xinyu Dong, Huiyang Hong, Xiaojun Yao, **Qi Wang***, Yuquan Li. Spectral Decomposition of Chemical Semantics for Activity Cliffs-Aware Molecular Property Prediction. Advanced Science, 2025 Dec. (**通讯作者, IF: 14.1, SCI 1，TOP**)   
 4.  Chaojie Chen, Xingcai Wu, Wu Liu, **Qi Wang***. AdaptiveMamba: Comprehensive Visual Representation Learning with Adaptive Semantic Perception. Knowledge-Based Systems, 2025 Dec.  (**通讯作者, IF: 7.5, SCI 1**)   
