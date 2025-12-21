@@ -37,7 +37,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Artificial Intellig
 
 <span id = "jump4"></span>  
 ## Publications
-1. Khadija Javed, Guy Smagghe*, **Qi Wang***, Humayun Javed, Yong Wang. Artificial intelligence in crop protection: revolutionizing agriculture for a sustainable future, 2025 Dec.  
+1. Khadija Javed, Guy Smagghe, **Qi Wang***, Humayun Javed, Yong Wang. Artificial intelligence in crop protection: revolutionizing agriculture for a sustainable future, 2025 Dec.  
 2. Huiyang Hong, Xinkai Wu , Hongyu Sun , Chaoyang Xie , **Qi Wang***. Learning Hierarchical Interaction for Accurate Molecular Property Prediction. Communications Chemistry, 2025 Dec.  
 3. Chaoyang Xie, Junhu Xu, Guangyi Huang, Shihang Wang, Mutian He, Xinyu Dong, Huiyang Hong, Xiaojun Yao, **Qi Wang***, Yuquan Li. Spectral Decomposition of Chemical Semantics for Activity Cliffs-Aware Molecular Property Prediction. Advanced Science, 2025 Dec.  
 4. Chaojie Chen, Xingcai Wu, Wu Liu,  **Qi Wang***. AdaptiveMamba: Comprehensive Visual Representation Learning with Adaptive Semantic Perception. Knowledge-Based Systems, 2025 Dec.  
