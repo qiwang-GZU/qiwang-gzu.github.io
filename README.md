@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Xiaoyang Wan, Yuxiang Wang, Xinyu Dong, Lufu Qin, Xixuan Luo, Peijia Yu, Liang Lei, Chao Sun, ASA Salgadoe, Jingjing Jiang, **Qi Wang***. Leaf-Detr: Progressive Adaptive Network with Lower Matching Cost for Dense Leaves Detection. Plant Phenomics, 2025.05. (**通讯作者, IF: 7.6, SCI 1, Top**)  
+1.  Xiaoyang Wan, Yuxiang Wang, Xinyu Dong, Lufu Qin, Xixuan Luo, Peijia Yu, Liang Lei, Chao Sun, ASA Salgadoe, Jingjing Jiang, **Qi Wang***. Leaf-Detr: Progressive Adaptive Network with Lower Matching Cost for Dense Leaves Detection. Plant Phenomics, 2026.01. (**通讯作者, IF: 7.6, SCI 1, Top**)  
 2.  Khadija Javed, Guy Smagghe,  **Qi Wang***, Humayun Javed, Yong Wang. Artificial intelligence in crop protection: revolutionizing agriculture for a sustainable future. Information Processing in Agriculture, 2025 Dec.  (**通讯作者, IF: 7.4, SCI 1，TOP**)   
 3.  Huiyang Hong, Xinkai Wu , Hongyu Sun , Chaoyang Xie , **Qi Wang***. Learning Hierarchical Interaction for Accurate Molecular Property Prediction. Communications Chemistry, 2025 Dec.  (**通讯作者, IF: 6.2, SCI 1，TOP**)   
 4.  Chaoyang Xie, Junhu Xu, Guangyi Huang, Shihang Wang, Mutian He, Xinyu Dong, Huiyang Hong, Xiaojun Yao, **Qi Wang***, Yuquan Li. Spectral Decomposition of Chemical Semantics for Activity Cliffs-Aware Molecular Property Prediction. Advanced Science, 2025 Dec. (**通讯作者, IF: 14.1, SCI 1，TOP**)   
