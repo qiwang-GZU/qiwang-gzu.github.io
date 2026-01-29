@@ -37,7 +37,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Artificial Intellig
 
 <span id = "jump4"></span>  
 ## Publications
-1. Xiaoyang Wan, Yuxiang Wang, Xinyu Dong, Lufu Qin, Xixuan Luo, Peijia Yu, Liang Lei, Chao Sun, ASA Salgadoe, Jingjing Jiang, **Qi Wang***. Leaf-Detr: Progressive Adaptive Network with Lower Matching Cost for Dense Leaves Detection. Plant Phenomics, 2025.05.  
+1. Xiaoyang Wan, Yuxiang Wang, Xinyu Dong, Lufu Qin, Xixuan Luo, Peijia Yu, Liang Lei, Chao Sun, ASA Salgadoe, Jingjing Jiang, **Qi Wang***. Leaf-Detr: Progressive Adaptive Network with Lower Matching Cost for Dense Leaves Detection. Plant Phenomics, 2026.01.  
 2. Khadija Javed, Guy Smagghe, **Qi Wang***, Humayun Javed, Yong Wang. Artificial intelligence in crop protection: revolutionizing agriculture for a sustainable future, 2025 Dec.  
 3. Huiyang Hong, Xinkai Wu , Hongyu Sun , Chaoyang Xie , **Qi Wang***. Learning Hierarchical Interaction for Accurate Molecular Property Prediction. Communications Chemistry, 2025 Dec.  
 4. Chaoyang Xie, Junhu Xu, Guangyi Huang, Shihang Wang, Mutian He, Xinyu Dong, Huiyang Hong, Xiaojun Yao, **Qi Wang***, Yuquan Li. Spectral Decomposition of Chemical Semantics for Activity Cliffs-Aware Molecular Property Prediction. Advanced Science, 2025 Dec.  
