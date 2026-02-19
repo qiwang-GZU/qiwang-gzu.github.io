@@ -36,7 +36,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump2"></span>  
 ### 教育经历
 2018.07 ~ 2021.02：博士，Engineering Technology，Hasselt University  
-2015.09 ~ 2020.12：博士，计算机应用工程，广州工业大学     
+2015.09 ~ 2020.12：博士，计算机应用工程，广东工业大学     
 2011.09 ~ 2015.06：本科，电子信息工程，西北民族大学
 
 <span id = "jump3"></span>  
