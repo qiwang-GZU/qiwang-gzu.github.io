@@ -20,7 +20,7 @@ Address: Room 926, Chonghou Building of West Campus, Guizhou University, Huaxi D
 <span id = "jump1"></span>  
 ## Education
 2018.07 ~ 2021.02：Ph.D., Engineering Technology, Hasselt University  
-2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangzhou University of Technology    
+2015.09 ~ 2020.12：Ph.D., Computer Application Engineering, Guangdong University of Technology    
 2011.09 ~ 2015.06：B.E., Electronic Information Engineering, Northwest University for Nationalities
 
 <span id = "jump2"></span>     
