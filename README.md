@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Gunarathna R.D.S. Madushani, Xue Wu, Wikum H. Jayasinghe, **Qi Wang***, Kumar Vinit, Ge-Fei Hao. Harnessing eCISs for precision phytomicrobiome engineering and biocontrol. (**通讯作者, IF: 12.3, SCI 1**)    
+1.  Gunarathna R.D.S. Madushani, Xue Wu, Wikum H. Jayasinghe, **Qi Wang***, Kumar Vinit, Ge-Fei Hao. Harnessing eCISs for precision phytomicrobiome engineering and biocontrol. FEMS Microbiology Reviews, 20026.02. (**通讯作者, IF: 12.3, SCI 1**)    
 2.  Chaojie Chen, Xingcai Wu, Yuanyuan Xiao, Peijia Yu, **Qi Wang***. DHS-ViG: Dynamic Hierarchical Selective Graph for Comprehensive and Robust Feature Perception. Neurocomputing, 2026.03.  (**通讯作者, IF: 6.5, SCI 2**)      
 3.  Xingcai Wu, Qiaoling Wan, Ya Yu, Yujiao Dan, Hanying Xie, G.M.A.D Sirishantha,  **Qi Wang***, Gefei Hao, Yongjin Liu. LesionDiff: synthetic data via lesion information transfer diffusion model facilitates plant disease diagnosis. The Crop Journal, 2026.03. (**通讯作者, IF: 5.6, SCI 1, Top**)   
 4.  Yushan Xie, Xinyu Dong, Kejun Zhao, G.M.A.D Sirishantha, Yuanyuan Xiao, Peijia Yu, Changyuan Zhai, **Qi Wang***. Plant disease phenotype captioning via zero-shot learning with semantic correction based on LLM. Journal of Integrative Agriculture, 2026.02. (**通讯作者, IF: 4.8, SCI 1, Top**)  
