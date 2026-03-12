@@ -93,14 +93,14 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 49.	**Qi Wang**, Jinxiang Lai, Zhenguo Yang, Xu Kai, Kan Peipei, Liu Wenyin, Lei Liang. Improving Cross-dimensional Weighting Pooling with Multi-scale Feature Fusion for Image Retrieval. Neurocomputing, 2019, 363: 17-26. (第一作者, IF: 5.719, SCI 2, CCF B, Top)   
 50.	 **Qi Wang**, Jingxiang Lai, et al. Beauty Product Image Retrieval Based on Multi-Feature Fusion and Feature Aggregation. In ACMMM, 2018, pp. 2063-2067. (第一作者, CCF A, Top)  
 51. Panfeng Chen, Hui Li,  **Qi Wang**, Xin Zhou, Xibin Wang. Quantifying expressive power in knowledge graph embeddings: An entropy-based metric framework. Expert Systems With Applications, Volume 298, Part D, 1 March 2026, 129840.  (合作作者, IF: 3.8, SCI 1)   
-52. Khadija Javed, Guy Smagghe, Ying-Qian Kang, Qi Wang and Yong Wang. Artificial intelligence in the mass production of natural enemies for biological control in modern agriculture. Pest Management Science, 2025 (合作作者, IF: 3.8, SCI 1)  
-53. Guojun Chen, Panfeng Chen, Hui Li, Xibin Wang, Xin Zhou, Aihua Yu, Xingzhi Deng, Qi Wang. Relation Semantic Guidance and Entity Position Location for Relation Extraction. Data Science and Engineering, 2024 (合作作者, IF: 5.1, SCI 2)  
+52. Khadija Javed, Guy Smagghe, Ying-Qian Kang, **Qi Wang** and Yong Wang. Artificial intelligence in the mass production of natural enemies for biological control in modern agriculture. Pest Management Science, 2025 (合作作者, IF: 3.8, SCI 1)  
+53. Guojun Chen, Panfeng Chen, Hui Li, Xibin Wang, Xin Zhou, Aihua Yu, Xingzhi Deng, **Qi Wang**. Relation Semantic Guidance and Entity Position Location for Relation Extraction. Data Science and Engineering, 2024 (合作作者, IF: 5.1, SCI 2)  
 54. Dongyu Chen, Yingwei Liu, Yang Liu, Kejun Zhao, Tianhan Zhang, Yangyang Gao,  **Qi Wang**, Baoan Song, Gefei Hao, ChemFREE: a one-stop comprehensive platform for ecological and environmental risk evaluation of chemicals in one health world, Nucleic Acids Research, 2024;, gkae446. (合作作者, IF: 14.9, SCI 2, Top)
 55. Ruoyu Fan, Wang Zhao, Matthieu Lin,  **Qi Wang**, Yong-Jin Liu, and Wenping Wang. Generalizable Thermal-based Depth Estimation via Pre-trained Visual Foundation Model. ICRA, May 13-17 2024. (合作作者, 机器人Top 会议)
 56.	YANG Jing, LI Bin, LI Shaobo,  **Qi Wang**, YU Liya, HU Jianjun, YUAN Kun. Brain-inspired Continuous Learning: Technology, Application and Future. Journal of Electronics & Information Technology, 2022, 44(5): 1865-1878. (合作作者, SCI 收录)  
 57.	Zhenguo Yang, Qing Li, Haoran Xie,  **Qi Wang**, Wenyin Liu. Learning Representation from Multiple Media Domains for Enhanced Event Discovery. Pattern Recognition, 2021, 110:107640. (合作作者, IF: 7.74, SCI 1, Top)  
 58.	Kai Xu,  **Qi Wang**, et al. Biomedical Named Entity Recognition Based on Dictionary Attention GRU network. Computer Applications and Software, 2020, 37(5). (合作作者, EI)  
-59.	K. Xu, Z. Yang, P. Kang, Q. Wang, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (合作作者, IF:7.7, SCI 2)  
+59.	K. Xu, Z. Yang, P. Kang, **Qi Wang**, and W. Liu. Document-Level Attention-Based BiLSTM-CRF Incorporating Disease Dictionary for Disease Named Entity Recognition. Computers in Biology and Medicine, vol. 108, pp. 122–132, 2019. (合作作者, IF:7.7, SCI 2)  
 
 <span id = "jump4"></span>  
 ### 主持的国家级项目
