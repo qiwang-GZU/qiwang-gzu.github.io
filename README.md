@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Xingcai Wu, Yaoxi Li, Lanying Wang, Ziang Zou, Ya Yu, G.M.A.D Sirishantha, ASA Salgadoeb, Gefei Hao,**Qi Wang***. WheatGOAT: Generalizable Object-Aware Tracker via Discriminative Region Semantic Learning for Wheat Ear Counting. Advanced Engineering Informatics, 2026.04.  (通讯作者, IF: 10.3, SCI 1, Top)   
+1.  Xingcai Wu, Yaoxi Li, Lanying Wang, Ziang Zou, Ya Yu, G.M.A.D Sirishantha, ASA Salgadoeb, Gefei Hao, **Qi Wang***. WheatGOAT: Generalizable Object-Aware Tracker via Discriminative Region Semantic Learning for Wheat Ear Counting. Advanced Engineering Informatics, 2026.04.  (通讯作者, IF: 10.3, SCI 1, Top)   
 2.  YuXiang Wang, Xinyu Dong, Xiaoyang Wan, Shiming Chen, Yongbin Qin, Wu Liu, Yong-Jin Liu, Jiebo Luo and **Qi Wang***. FHNet: Frequency Guided Hierarchical Optimization Network for Few-Shot Fine-Grained Classification of Spatially Dispersed and Aggregated Data. infomation fusion, 2026.4. (通讯作者, IF: 15.7, SCI 1, CCF B, Top)  
 3.  Ya Yu, Xingcai Wu, Qiaoling Wan, Yujiao Dan, Peijia Yu, Wei Guo, **Qi Wang***. FLARE: Focused leaf–lesion awareness via explicit relational modeling for field disease severity assessment. Computers and Electronics in Agriculture, 2026.04. (通讯作者, IF: 8.9, SCI 1, Top)  
 4.  Gunarathna R.D.S. Madushani, Xue Wu, Wikum H. Jayasinghe, **Qi Wang***, **Kumar Vinit***, **Ge-Fei Hao***. Harnessing eCISs for precision phytomicrobiome engineering and biocontrol. FEMS Microbiology Reviews, 2026.02. (通讯作者, IF: 12.3, SCI 1)    
