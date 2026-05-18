@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Zhihao Yuan, Xingcai Wu, Yang Liu, Xiaomin Shuai\∗, Xulong Huang, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, **Qi Wang**\*. Knowledge-Driven Unified Framework for Plant Disease Classification and Severity Grading via Domain Adaptation. Plant Phenomics, 2026.05. (通讯作者, IF: 7.6, SCI 1, Top)  
+1.  Zhihao Yuan, Xingcai Wu, Yang Liu, Xiaomin Shuai\*, Xulong Huang, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, **Qi Wang**\*. Knowledge-Driven Unified Framework for Plant Disease Classification and Severity Grading via Domain Adaptation. Plant Phenomics, 2026.05. (通讯作者, IF: 7.6, SCI 1, Top)  
 2.  Yushan Xie, Yang Liu, Tianyi Sun, Xingcai Wu, and **Qi Wang**\*. CornCare: A Knowledge-Graph-Enhanced Multimodal Diagnostic Reporting System for Corn Diseases. Agriculture, 2026.05.  (通讯作者, IF: 3.6, SCI 2)   
 3.  Nanyi Wang, Chaojie Chen, Zuoqi Tang, Jinxiang Lai, Xingcai Wu, **Qi Wang**\*. DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning. ICML 2026, Seoul, South Korea.  (通讯作者, CCF A 会议)   
 4.  Xingcai Wu, Yaoxi Li, Lanying Wang, Ziang Zou, Ya Yu, G.M.A.D Sirishantha, ASA Salgadoeb, Gefei Hao\*, **Qi Wang**\*. WheatGOAT: Generalizable Object-Aware Tracker via Discriminative Region Semantic Learning for Wheat Ear Counting. Advanced Engineering Informatics, 2026.04.  (通讯作者, IF: 10.3, SCI 1, Top)   
