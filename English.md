@@ -37,7 +37,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Artificial Intellig
 
 <span id = "jump4"></span>  
 ## Publications
-1. Lanying Wanga, Zhengbo Liuc, Xinyu Dong, Hainan Wang, Wei Guo, Yuanyuan Xiao, **Qi Wang**\*. VT-SCC: Visual-text semantic alignment via multimodal guidance for unified staple crop organ counting. aBIOTECH, 2026.08.  
+1. Lanying Wang, Zhengbo Liuc, Xinyu Dong, Hainan Wang, Wei Guo, Yuanyuan Xiao, **Qi Wang**\*. VT-SCC: Visual-text semantic alignment via multimodal guidance for unified staple crop organ counting. aBIOTECH, 2026.08.  
 2. Qinglong Wu, Ya Yu, Xingcai Wu, Peijia Yu, Yazhou Wang, Zuoqi Tang, **Qi Wang**\*. AgriMamba-Guided Multimodal Framework with Pathology-aware Alignment for Plant Disease Severity Grading. The Crop Journal, 2026.08.  
 3. Yang Liu, Xingcai Wu, Chaojie Chen, Yuxiang Wang, Yushan Xie, Qi Wang*, Yong-Jin Liu, and Jiebo LuoSPS: Semantically-Guided Prototype Synthesis for Long-Tailed Recognition via Purified Low-Rank Knowledge Transfer. IEEE Transactions on Multimedia, 2026.07.   
 4. Zhihao Yuan, Xingcai Wu, Yang Liu, Xiaomin Shuai\∗, Xulong Huang, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, **Qi Wang**\*. Knowledge-Driven Unified Framework for Plant Disease Classification and Severity Grading via Domain Adaptation. Plant Phenomics, 2026.05.  
