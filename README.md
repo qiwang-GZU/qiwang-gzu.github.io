@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Lanying Wanga, Zhengbo Liuc, Xinyu Dong, Hainan Wang, Wei Guo, Yuanyuan Xiao, **Qi Wang**\*. VT-SCC: Visual-text semantic alignment via multimodal guidance for unified staple crop organ counting. aBIOTECH, 2026.08. (通讯作者, IF: 8.5, 新锐1区)     
+1.  Lanying Wang, Zhengbo Liu, Xinyu Dong, Hainan Wang, Wei Guo, Yuanyuan Xiao, **Qi Wang**\*. VT-SCC: Visual-text semantic alignment via multimodal guidance for unified staple crop organ counting. aBIOTECH, 2026.08. (通讯作者, IF: 8.5, 新锐1区)     
 2.  Qinglong Wu, Ya Yu, Xingcai Wu, Peijia Yu, Yazhou Wang, Zuoqi Tang, **Qi Wang**\*. AgriMamba-Guided Multimodal Framework with Pathology-aware Alignment for Plant Disease Severity Grading. The Crop Journal, 2026.08. (通讯作者, IF: 6.7, SCI 1, Top)   
 3.  Yang Liu, Xingcai Wu, Chaojie Chen, Yuxiang Wang, Yushan Xie,  **Qi Wang**\*, Yong-Jin Liu, and Jiebo Luo. SPS: Semantically-Guided Prototype Synthesis for Long-Tailed Recognition via Purified Low-Rank Knowledge Transfer. IEEE Transactions on Multimedia, 2026.07. (通讯作者, IF: 9.9, CCF A, SCI 1, Top)  
 4.  Zhihao Yuan, Xingcai Wu, Yang Liu, Xiaomin Shuai\*, Xulong Huang, R.D.S.M Gunarathna, Peijia Yu, Yuanyuan Xiao, **Qi Wang**\*. Knowledge-Driven Unified Framework for Plant Disease Classification and Severity Grading via Domain Adaptation. Plant Phenomics, 2026.05. (通讯作者, IF: 7.6, SCI 1, Top)  
