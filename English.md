@@ -37,7 +37,7 @@ Artificial Intelligence; Smart Agriculture; Computer Vision; Artificial Intellig
 
 <span id = "jump4"></span>  
 ## Publications
-1. YuXiang Wang, Yazhou Wang, Peijia Yu, Yuanyuan Xiao, and Qi Wang*. Meta-contrastive Learning with Lightweight Support-based Query Interaction for Few-shot Fine-grained Visual Classification. Knowledge-Based Systems, 2026 Otc.  
+1. YuXiang Wang, Yazhou Wang, Peijia Yu, Yuanyuan Xiao, and  **Qi Wang**\*. Meta-contrastive Learning with Lightweight Support-based Query Interaction for Few-shot Fine-grained Visual Classification. Knowledge-Based Systems, 2026 Otc.  
 2. Kewei Wang, Yujiao Dan, Xingcai Wu, Ya Yu, Zhengbo Liu, W. Pasindu R. Welihindab, Xiaowei Su,Peijia Yu\*, **Qi Wang**\*. DOSeg: Domain-Knowledge-Guided Orthogonal Subspace Learning for Camouflaged Pest Instance Segmentation. Computers and Electronics in Agriculture, 2026.09.   
 3. Lanying Wang, Zhengbo Liuc, Xinyu Dong, Hainan Wang, Wei Guo, Yuanyuan Xiao, **Qi Wang**\*. VT-SCC: Visual-text semantic alignment via multimodal guidance for unified staple crop organ counting. aBIOTECH, 2026.08.  
 4. Qinglong Wu, Ya Yu, Xingcai Wu, Peijia Yu, Yazhou Wang, Zuoqi Tang, **Qi Wang**\*. AgriMamba-Guided Multimodal Framework with Pathology-aware Alignment for Plant Disease Severity Grading. The Crop Journal, 2026.08.  
