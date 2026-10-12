@@ -42,7 +42,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 <span id = "jump3"></span>  
 ### 论文  
 
-1.  Lufu Qin, Zhengbo Liu, **Peijia Yu**\* and **Qi Wang**\*. AgriSkill-Agent: A Skill-Guided and Knowledge-Enhanced Agent Framework for Leaf Disease Diagnosis and Management. Agronomy, 2026 Otc.  (通讯作者, IF: 8.0, SCI 1，TOP)  
+1.  Lufu Qin, Zhengbo Liu, **Peijia Yu**\* and **Qi Wang**\*. AgriSkill-Agent: A Skill-Guided and Knowledge-Enhanced Agent Framework for Leaf Disease Diagnosis and Management. Agronomy, 2026 Otc.  (通讯作者, IF: 4.5, SCI 2)  
 2.  YuXiang Wang, Yazhou Wang, Peijia Yu, Yuanyuan Xiao, and  **Qi Wang**\*. Meta-contrastive Learning with Lightweight Support-based Query Interaction for Few-shot Fine-grained Visual Classification. Knowledge-Based Systems, 2026 Otc.  (通讯作者, IF: 8.0, SCI 1，TOP)   
 3.  Kewei Wang, Yujiao Dan, Xingcai Wu, Ya Yu, Zhengbo Liu, W. Pasindu R. Welihindab, Xiaowei Su,Peijia Yu\*, **Qi Wang**\*. DOSeg: Domain-Knowledge-Guided Orthogonal Subspace Learning for Camouflaged Pest Instance Segmentation. Computers and Electronics in Agriculture, 2026.09. (通讯作者, IF: 10.3, 1区 TOP)      
 4.  Lanying Wang, Zhengbo Liu, Xinyu Dong, Hainan Wang, Wei Guo, Yuanyuan Xiao, **Qi Wang**\*. VT-SCC: Visual-text semantic alignment via multimodal guidance for unified staple crop organ counting. aBIOTECH, 2026.08. (通讯作者, IF: 8.5, 新锐1区)     
