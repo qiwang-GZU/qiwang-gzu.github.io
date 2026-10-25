@@ -172,6 +172,7 @@ Github 主页：[qiwang-GZU](https://github.com/qiwang-GZU)
 王建军 (硕士研究生, 研究方向:计算机视觉、图像细粒度分析)  
 &emsp;&emsp;以第一作者发表2篇学术论文Pattern Recognition（SCI 1区 Top）和Netural Network（SCI 1区 Top），曾在国际知名学术会议上就行学术汇报，目前在苏州银行工作，年薪30万。  
 
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=lOS8stZEE5CWtiebZW4vF23XhJUb0ew8bLNqvglvC3Q&cl=ffffff&w=a"></script>
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5f45w6uao4l&amp;m=1c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;cw=ffffff&amp;cb=3243cf" async="async"></script>  
 <div style="margin-top: 80px;width:160px;height:160px" name='my_map' style="text-align: center;">  
